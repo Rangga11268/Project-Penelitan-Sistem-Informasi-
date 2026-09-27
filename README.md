@@ -18,7 +18,7 @@
 
 ---
 
-## 📂 STRUKTUR DIREKTORI WORKSPACE (BERSIH & MODULAR)
+## 📂 STRUKTUR DIREKTORI REPOSITORI PROYEK
 
 ```
 d:\MATERI SLIDE\MATERI SMT 5\TUGAS SMT 5\Penelitian SI/
@@ -51,6 +51,9 @@ d:\MATERI SLIDE\MATERI SMT 5\TUGAS SMT 5\Penelitian SI/
 │       ├── romi-dm-apr2020.pdf & .pptx
 │       └── romi-dm-mar2019.pptx
 │
+├── 📁 src/                              # Wadah Script Machine Learning & Data Mining (Python)
+│   └── .gitkeep
+│
 ├── 📁 scripts/                          # Script Generator PDF Headless Engine
 │   ├── build_mini_proposal_makalah_pdf.py                     # Builder PDF Makalah Mini Proposal
 │   └── build_justification_plan_pdf.py                        # Builder PDF Rencana & Penguatan
@@ -59,15 +62,11 @@ d:\MATERI SLIDE\MATERI SMT 5\TUGAS SMT 5\Penelitian SI/
 │   └── 📁 img/
 │       └── ketentuanJurnal.jpeg                               # Foto Papan Tulis Instruksi Dosen Bu Syifa
 │
-├── 📁 Tugas 1/                          # Tugas Analisis Jurnal Awal
-│   └── Analisis Jurnal - Kelompok 1.pdf
-│
-├── 📄 Kontrak Perkuliahan Penelitian SI.pdf
+├── 📄 .gitignore                        # Konfigurasi Git Ignore
+├── 📄 requirements.txt                  # Daftar Dependensi Python
 └── 📄 README.md                         # Navigator Utama Repositori
 ```
 
 ---
 
-## 🎯 DAFTAR PUSTAKA BAKU (MINIMAL 5 BUKU + 10 JURNAL SESUAI INSTRUKSI DOSEN)
-* 📚 **6 Buku Teks:** Prof. Romi Satria Wahono (2020), Jiawei Han (2012), Tan Steinbach Kumar (2006), Chapman CRISP-DM (2000), Suyanto (2018), Kusrini (2009).
-* 📑 **11 Jurnal SINTA:** JTEKSIS, Generation Journal, Jurnal RESTI, JNTETI, Infotel, JSINBIS, JTIIK, ACM SIGMOD, Jurnal Sains dan Manajemen, Jurnal Informatika, Jurnal Komtika.
+*(Catatan: Berkas tugas mingguan dan silabus kuliah telah dipisahkan di luar repositori ini pada direktori: `../TUGAS_MINGGUAN_PENELITIAN_SI/`)*
