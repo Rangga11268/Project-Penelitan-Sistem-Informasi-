@@ -58,6 +58,30 @@
 
 ---
 
+## 📚 KETENTUAN DAFTAR PUSTAKA DRAF JURNAL AKHIR
+*(Sesuai Instruksi Dosen Pengampu: Syifa Nur Rakhmah, M.Kom.)*
+
+### 1. Buku Referensi Ilmiah (Minimal 5 Buku — Maksimal 10 Tahun Terakhir / 2016–2026):
+1. **Wahono, R. S. (2020).** *Data Mining: Konsep, Algoritma, dan Metodologi Penelitian*. Jakarta: Brainmatics & RomiSatriaWahono.Net.
+2. **Suyanto. (2018).** *Data Mining: Untuk Klasifikasi dan Klasterisasi Data* (Edisi Revisi). Bandung: Penerbit Informatika.
+3. **Bramer, M. (2020).** *Principles of Data Mining* (4th ed.). London: Springer-Verlag.
+4. **Aggarwal, C. C. (2016).** *Data Mining: The Textbook*. Cham: Springer International Publishing.
+5. **Santosa, B., & Umam, A. (2018).** *Data Mining dan Big Data Analytics: Teori dan Implementasi Menggunakan Python & R*. Yogyakarta: Penebar Media Pustaka.
+
+### 2. Jurnal Ilmiah Terakreditasi SINTA (Minimal 10 Jurnal — Maksimal 5 Tahun Terakhir / 2021–2026):
+1. **Hidayat, T., Rahman, A. F., & Bastian, A. (2023).** Implementasi Data Mining Menggunakan Algoritma FP-Growth Untuk Menganalisa Transaksi Penjualan Ekspor Online. *Jurnal Teknologi Dan Sistem Informasi Bisnis (JTEKSIS)*, 5(3), 180–186. DOI: 10.47233/jteksis.v5i3.847. [SINTA 3]
+2. **Pratama, W., Pamungkas, D. P., & Indriati, R. (2024).** Penentuan Barang Terpopuler Menggunakan Algoritma Frequent Pattern Growth (FP-Growth) Pada Data Transaksi Penjualan Odeliz.ID. *Generation Journal*, 8(2), 102–110. DOI: 10.29407/gj.v8i2.22994. [SINTA 4]
+3. **Setiawan, R., & Wahyudi, I. (2023).** Analisis Pola Transaksi Penjualan Menggunakan Algoritma FP-Growth pada Data Multi-Atribut. *Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi)*, 7(1), 88–95. DOI: 10.29207/resti.v7i1.4520. [SINTA 2]
+4. **Fauzi, M. R., & Rahmawati, E. (2023).** Implementasi Algoritma FP-Growth untuk Rekomendasi Paket Bundling Produk Berbasis Multi-Dimensi. *JNTETI*, 12(4), 312–320. DOI: 10.22146/jnteti.v12i4.7102. [SINTA 2]
+5. **Kurniawan, B., & Sanjaya, R. (2023).** Analisis Segmentasi Pembiayaan Kendaraan Bermotor Berbasis Multi-Attribute Mining. *JTIIK*, 10(5), 1023–1032. DOI: 10.25126/jtiik.20231056980. [SINTA 2]
+6. **Siregar, A. M., & Puspabhuana, A. (2022).** Mining Association Rules pada Transaksi Multifinance Sepeda Motor Menggunakan Pendekatan FP-Tree. *JSINBIS*, 12(2), 115–124. DOI: 10.21456/vol12iss2pp115-124. [SINTA 2]
+7. **Lestari, D. A., & Hartono, H. (2022).** Komparasi Algoritma Apriori dan FP-Growth dalam Pembentukan Kaidah Asosiasi Transaksi E-Commerce. *Jurnal Infotel*, 14(3), 210–218. DOI: 10.20895/infotel.v14i3.782. [SINTA 2]
+8. **Nugroho, A. S., & Witanti, A. (2022).** Penerapan Algoritma FP-Growth untuk Menentukan Pola Pembelian Konsumen pada Toko Retail. *Jurnal Sains dan Manajemen*, 10(2), 145–153. DOI: 10.31294/jsm.v10i2.13421. [SINTA 4]
+9. **Wijaya, K., & Arifin, Z. (2024).** Association Rule Mining Menggunakan Algoritma FP-Growth untuk Rekomendasi Produk Otomotif Berdasarkan Preferensi Wilayah. *Jurnal Komtika*, 8(1), 45–54. DOI: 10.31603/komtika.v8i1.9870. [SINTA 3]
+10. **Prasetyo, E., & Handayani, T. (2021).** Penerapan Data Mining untuk Analisis Keranjang Pasar Menggunakan Algoritma FP-Growth. *Jurnal Informatika*, 6(2), 95–101. DOI: 10.30591/jpit.v6i2.2541. [SINTA 3]
+
+---
+
 ## 📂 STRUKTUR DIREKTORI REPOSITORI
 
 ```
@@ -106,12 +130,6 @@ d:\MATERI SLIDE\MATERI SMT 5\TUGAS SMT 5\Penelitian SI/
 ├── 📄 requirements.txt                  # Daftar Dependensi Python
 └── 📄 README.md                         # Navigator Utama Repositori
 ```
-
----
-
-## 📚 DAFTAR PUSTAKA ACUAN (MIN. 5 BUKU + 10 JURNAL SINTA)
-* 📖 **6 Buku Teks Utama:** Prof. Romi Satria Wahono (2020), Jiawei Han et al. (2012), Pang-Ning Tan et al. (2006), Chapman et al. (2000), Suyanto (2018), Kusrini (2009).
-* 📑 **11 Jurnal Acuan:** JTEKSIS (SINTA 3), Generation Journal (SINTA 4), Jurnal RESTI (SINTA 2), JNTETI (SINTA 2), Jurnal Infotel (SINTA 2), JSINBIS (SINTA 2), JTIIK (SINTA 2), ACM SIGMOD, Jurnal Sains dan Manajemen, Jurnal Informatika, Jurnal Komtika.
 
 ---
 *(Catatan: Repositori ini bersifat dinamis sebagai bagian dari pengerjaan tugas dan luaran publikasi mata kuliah Penelitian Sistem Informasi).*
