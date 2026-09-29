@@ -65,6 +65,12 @@ venv.bak/
 # IDE / Editor Files
 .vscode/
 .idea/
+
+# Large raw database dumps
+datasets/02_DATASET_CADANGAN_REFERENSI/2ym7v78wtd-1/
+datasets/02_DATASET_CADANGAN_REFERENSI/pharmacy_dataset_csv/
+datasets/02_DATASET_CADANGAN_REFERENSI/pharmacy_clean_for_training/
+
 *.swp
 *.swo
 *~
