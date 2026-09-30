@@ -268,7 +268,7 @@ def generate_clean_academic_pdf():
       <tr>
         <td><strong>Pilihan Opsi Riset</strong></td>
         <td>:</td>
-        <td><strong>Plan A (Dealer Otomotif SSM Motor)</strong> &amp; <strong>Plan B (Data Transaksi Farmasi)</strong></td>
+        <td><strong>Plan A (PT. Sinar Surya Matahari)</strong> &amp; <strong>Plan B (Data Transaksi Farmasi)</strong></td>
       </tr>
     </table>
   </div>
@@ -303,7 +303,7 @@ def generate_clean_academic_pdf():
     </tr>
     <tr>
       <td><strong>Sifat &amp; Sumber Data</strong></td>
-      <td><strong>Data Primer Riil &amp; Eksklusif</strong> (Dealer Resmi Yamaha SSM Motor Indonesia)</td>
+      <td><strong>Data Primer Riil &amp; Eksklusif</strong> (Dealer Resmi Yamaha PT. Sinar Surya Matahari)</td>
       <td><strong>Data Sekunder Ilmiah Bereputasi</strong> (Mendeley Data Repository DOI: 10.17632/2ym7v78wtd.1)</td>
     </tr>
     <tr>
@@ -337,26 +337,38 @@ def generate_clean_academic_pdf():
 <!-- ================= BAGIAN I: PLAN A ================= -->
 <div class="page-break"></div>
 
-<h1>BAGIAN I: USULAN PENELITIAN UTAMA (PLAN A) — STUDI KASUS DEALER SSM MOTOR</h1>
+<h1>BAGIAN I: USULAN PENELITIAN UTAMA (PLAN A) — PT. SINAR SURYA MATAHARI</h1>
 
-<h2>1.1 Formulasi Judul Penelitian (Standar Jurnal SINTA)</h2>
+<h2>1.1 Tiga Pilihan Formulasi Judul Final (Standar Jurnal SINTA)</h2>
+
 <div class="quote-box">
-  <p><strong>Judul Bahasa Indonesia:</strong><br>
-  <em>"Penerapan Algoritma FP-Growth pada Multi-Attribute Association Rule Mining untuk Analisis Pola Pemilihan Produk Sepeda Motor dan Skema Pembiayaan Konsumen (Studi Kasus: SSM Motor)"</em></p>
-  <p style="margin-top: 8px;"><strong>Judul Bahasa Inggris:</strong><br>
-  <em>"Implementation of FP-Growth Algorithm in Multi-Attribute Association Rule Mining for Analyzing Motorcycle Product Selection and Consumer Financing Schemes (Case Study: SSM Motor)"</em></p>
+  <p><strong>PILIHAN 1 (REKOMENDASI UTAMA #1 — Fokus Multi-Attribute &amp; Preferensi Finansial):</strong><br>
+  <em>"Penerapan Algoritma FP-Growth dalam Multi-Attribute Association Rule Mining untuk Analisis Pola Pembelian Sepeda Motor dan Preferensi Skema Pembiayaan Konsumen (Studi Kasus: PT. Sinar Surya Matahari)"</em><br>
+  <small><em>Eng: Application of FP-Growth Algorithm in Multi-Attribute Association Rule Mining for Motorcycle Purchase Patterns and Consumer Financing Scheme Preferences (Case Study: PT. Sinar Surya Matahari)</em></small></p>
+</div>
+
+<div class="quote-box">
+  <p><strong>PILIHAN 2 (Fokus Strategi Bisnis &amp; Bundling Paket Pembiayaan):</strong><br>
+  <em>"Analisis Pola Transaksi Penjualan Sepeda Motor Menggunakan Algoritma FP-Growth untuk Perumusan Strategi Bundling Paket Pembiayaan Konsumen (Studi Kasus: PT. Sinar Surya Matahari)"</em><br>
+  <small><em>Eng: FP-Growth Based Motorcycle Sales Transaction Pattern Analysis for Formulating Consumer Financing Package Bundling Strategies (Case Study: PT. Sinar Surya Matahari)</em></small></p>
+</div>
+
+<div class="quote-box">
+  <p><strong>PILIHAN 3 (Fokus Perilaku Konsumen Multidimensi &amp; Tenor Kredit):</strong><br>
+  <em>"Penambangan Kaidah Asosiasi Multidimensi Berbasis FP-Growth untuk Eksplorasi Pola Preferensi Konsumen Kendaraan Bermotor Roda Dua Berdasarkan Atribut Produk dan Tenor Pembiayaan"</em><br>
+  <small><em>Eng: Mining Multi-Dimensional Association Rules Based on FP-Growth for Exploring Two-Wheeled Motor Vehicle Consumer Preference Patterns Based on Product Attributes and Financing Tenor</em></small></p>
 </div>
 
 <h2>1.2 Latar Belakang &amp; Masalah Bisnis Nyata</h2>
-<p>Industri penjualan sepeda motor di Indonesia memiliki karakteristik yang khas di mana lebih dari 75% hingga 85% transaksi pembelian kendaraan roda dua dilakukan melalui fasilitas pembiayaan konsumen (<em>multifinance / leasing</em>). Dalam proses operasional harian di dealer resmi seperti SSM Motor, pihak manajemen kerap menghadapi sejumlah kendala bisnis:</p>
+<p>Industri penjualan sepeda motor di Indonesia memiliki karakteristik yang khas di mana lebih dari 75% hingga 85% transaksi pembelian kendaraan roda dua dilakukan melalui fasilitas pembiayaan konsumen (<em>multifinance / leasing</em>). Dalam proses operasional harian di dealer resmi PT. Sinar Surya Matahari, pihak manajemen kerap menghadapi sejumlah kendala bisnis:</p>
 <ol>
   <li><strong>Tingginya Kegagalan Konversi Penjualan (<em>Price Shock &amp; Financing Mismatch</em>):</strong> Banyak calon konsumen yang berminat pada model motor tertentu (misalnya seri Maxi seperti NMAX atau Aerox) membatalkan pesanan karena penawaran skema cicilan awal atau pilihan tenor yang disodorkan oleh pramuniaga (<em>sales counter</em>) tidak sesuai dengan kemampuan finansial debitur.</li>
   <li><strong>Ketidakseimbangan Alokasi Persediaan (<em>Inventory Holding Cost</em>):</strong> Dealer kerap menumpuk kombinasi varian warna dan tipe motor tertentu di gudang cabang yang kurang diminati oleh karakteristik wilayah domisili tersebut, sementara varian yang paling diminati justru mengalami kekosongan stok (<em>stockout</em>).</li>
   <li><strong>Promosi Bersama Multifinance yang Belum Terarah:</strong> Kerjasama promo subsidi uang muka (DP) atau potongan angsuran antara pihak dealer dengan perusahaan leasing (seperti BAF, Adira, dan OTO) selama ini masih bersifat coba-coba tanpa berbasis pola data transaksi historis.</li>
 </ol>
 
-<h2>1.3 Karakteristik Dataset Primer SSM Motor</h2>
-<p>Penelitian Plan A menggunakan dataset transaksi primer riil yang diperoleh secara langsung dari dealer resmi Yamaha SSM Motor periode Juni hingga Agustus 2026 yang telah melalui tahap pra-pemrosesan data (<em>preprocessing</em>):</p>
+<h2>1.3 Karakteristik Dataset Primer PT. Sinar Surya Matahari</h2>
+<p>Penelitian Plan A menggunakan dataset transaksi primer riil yang diperoleh secara langsung dari dealer resmi Yamaha PT. Sinar Surya Matahari periode Juni hingga Agustus 2026 yang telah melalui tahap pra-pemrosesan data (<em>preprocessing</em>):</p>
 <ul>
   <li><strong>Volume Data:</strong> 3.113 baris transaksi penjualan kendaraan bersih.</li>
   <li><strong>Atribut Transaksi:</strong> Nomor Faktur Penjualan, Tanggal/Bulan Transaksi, Cabang Dealer, Model/Tipe Motor (Matic, Maxi Series, Sport, Moped), Varian Warna Kendaraan, Metode Pembayaran (CASH vs KREDIT), Lembaga Pembiayaan / Multifinance (BAF, ADIRA, OTO), Tenor Cicilan (11, 23, 30, 35 Bulan), Nilai Uang Muka (DP), dan Wilayah Domisili Konsumen (Jabodetabek).</li>
