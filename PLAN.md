@@ -62,7 +62,7 @@ Untuk memastikan artikel lolos seleksi reviewer Jurnal SINTA, penelitian ini mem
 ---
 
 ### 📊 SPESIFIKASI DATASET RIEL (SSM MOTOR)
-* **Sumber Data:** Data Primer Internal Dealer SSM Motor (PT. Surya Sentosa Mandiri Motor - Yamaha).
+* **Sumber Data:** Data Primer Internal Dealer SSM Motor (PT. Sinar Surya Matahari Motor - Yamaha).
 * **Periode Transaksi:** Juni, Juli, Agustus 2026 (3.113 baris transaksi bersih).
 * **Dimensi Atribut Utama:**
   1. `NAMA_MODEL`: Tipe kendaraan (NMAX, AEROX, XSR 155, WR 155 R, GRAND FILANO, FAZZIO, MIO M3, dll.).
