@@ -34,18 +34,16 @@
 
 ---
 
-## 2. BUKTI NOVELTY: HASIL PENELUSURAN GOOGLE SCHOLAR & SINTA (2018–2026)
+## 2. LANDASAN KEBARUAN ILMIAH (SCIENTIFIC NOVELTY & RESEARCH GAP)
 
-Berdasarkan penelusuran mendalam terhadap basis data publikasi ilmiah:
-1. **Objek Penelitian (PT. Sinar Surya Matahari): 100% Orisinal**  
-   Tidak ada satupun artikel data mining atau sistem informasi yang pernah meneliti dataset transaksi penjualan PT. Sinar Surya Matahari.
-2. **Ketiadaan Riset Serupa di SINTA:**  
-   Publikasi data mining sepeda motor di jurnal SINTA selama ini **95% terjebak pada 3 kluster konvensional**:
-   * *Kluster A (Suku Cadang Bengkel):* Analisis keranjang belanja sparepart bengkel servis (oli + busi + kampas rem).
-   * *Kluster B (Forecasting Volume Penjualan):* Prediksi total unit motor bulanan (Regresi Linier / ARIMA).
-   * *Kluster C (Klasifikasi Risiko Kredit):* Penentuan nasabah kredit macet vs lancar (C4.5/Naive Bayes).
-3. **Pilar Kebaruan Riset Kita:**  
-   Belum pernah ada paper SINTA yang menggabungkan secara simultan: **Karakteristik Fisik Motor (Model + Warna)** dengan **Dimensi Finansial (Leasing BAF/Adira/Oto + Tenor 11–35 Bulan + DP)** dan **Wilayah Domisili** menggunakan algoritma FP-Growth.
+Secara epistemologis dan metodologis dalam disiplin ilmu Sistem Informasi / *Knowledge Discovery in Databases* (KDD), kebaruan (*novelty*) penelitian ini **bukan semata-mata terletak pada objek studi kasus (PT. Sinar Surya Matahari)**, melainkan pada **3 Pilar Kontribusi Ilmiah & Metodologis**:
+
+1. **Kontribusi Metodologis (*Multi-Attribute Predicate Itemset Transformation*):**  
+   Mayoritas riset aturan asosiasi (*Association Rule Mining*) di Indonesia memperlakukan transaksi sebagai *single-attribute basket* (misal: antarsuku cadang). Penelitian ini merumuskan metode transformasi data transaksi faktur tunggal menjadi *multi-dimensional predicate itemset* (Model, Warna, Lembaga Pembiayaan, Tenor Cicilan, dan Wilayah) yang diindeks ke dalam *FP-Tree* kompak tanpa menimbulkan redundansi kombinatorik atau aturan semu (*trivial rules*).
+2. **Kontribusi Domain Interdisipliner (*Product-Finance Association Bridge*):**  
+   Menjembatani analisis karakteristik fisik produk bernilai tinggi (*high-involvement durable goods*) dengan preferensi instrumen pembiayaan konsumen (*multifinance structure*). Selama ini, variabel kredit di industri otomotif hanya dimodelkan via klasifikasi kelayakan kredit (*credit scoring/risk*), bukan sebagai pola perilaku preferensi komersial (*commercial bundling preferences*).
+3. **Kontribusi Preskriptif-Manajerial (*Actionable Business Intelligence*):**  
+   Menghasilkan kaidah asosiasi teruji yang ditransformasikan menjadi panduan preskriptif operasional, seperti *Smart Sales Script* untuk tenaga pemasar dealer, alokasi inventaris warna berbasis preferensi lembaga leasing per wilayah, dan perumusan skema subsidi pembiayaan bersama (*Joint Multifinance Campaign*).
 
 ---
 
@@ -86,22 +84,26 @@ Berikut adalah pemetaan mendalam terhadap 7 artikel jurnal terakreditasi nasiona
 
 Berikut adalah perbandingan *Head-to-Head* antara literatur SINTA 1–4 terdahulu dengan riset yang kita ajukan:
 
-| Parameter Perbandingan | Literatur SINTA 1–4 Terdahulu | Riset Kelompok 1 (PT. Sinar Surya Matahari) | Bukti Keunggulan & Novelty |
+| Parameter Perbandingan | Literatur SINTA 1–4 Terdahulu | Riset Kelompok 1 (PT. Sinar Surya Matahari) | Keunggulan Ilmiah & Kontribusi Riset |
 |---|---|---|---|
-| **1. Domain & Objek Riset** | Dominan toko suku cadang, bengkel servis AHASS/umum, minimarket, atau motor bekas informal. | **Authorized Yamaha 3S Dealer** (PT. Sinar Surya Matahari). | **Orisinal:** Mengkaji transaksi penjualan unit baru motor Yamaha resmi (*Class-Leading Motorcycles*). |
-| **2. Volume & Integritas Data** | Relatif kecil: 300 s/d 1.500 catatan transaksi (seringkali data sampel/dummy). | **3.113 Transaksi Riil** (periode aktif Juni–Agustus 2026 dari sistem DMS/ERP resmi dealer). | **Valid & Skala Enterprise:** Volume data besar, bersih, dan representatif secara statistik. |
-| **3. Dimensi Pembentukan Itemset** | **Single-Attribute / 1-Dimensi:** `Item_A -> Item_B` (misal: Busi -> Oli). | **Multi-Dimensional (5 Dimensi Terintegrasi):** `Model Motor + Varian Warna + Lembaga Pembiayaan (BAF/Adira/OTO) + Tenor Kredit (11–35 bln) + Wilayah`. | **Novelty Metodologi Utama:** Mengubah data tabular transaksional penjualan multi-kolom menjadi representasi multi-atribut terstruktur tanpa kehilangan relasi komersial. |
-| **4. Integrasi Finansial / Multifinance** | Variabel kredit hanya diolah lewat klasifikasi gagal bayar (*default loan*), tidak ada pemetaan asosiasi paket leasing. | **Joint Association Discovery:** Memetakan keterikatan kuat unit tertentu (misal: *NMAX Hitam Doff*) terhadap leasing tertentu (*BAF*) pada tenor panjang (*35 bulan*). | **Novelty Domain Bisnis:** Menjawab dinamika industri otomotif Indonesia di mana >75% pembelian motor dilakukan via skema kredit. |
-| **5. Skalabilitas Algoritma** | Banyak yang masih memakai **Apriori konvensional** yang lambat pada data multi-item, atau FP-Growth pada 1 kolom. | **FP-Growth dengan FP-Tree Conditional Database:** Menangani ledakan kombinatorik (*combinatorial explosion*) dari 5 dimensi secara cepat tanpa *candidate generation*. | **Efisiensi Komputasi:** Waktu eksekusi instan (< 1 detik) dengan eliminasi *candidate generation* yang berat. |
-| **6. Output & Dampak Manajerial** | Sekadar rekomendasi tata letak rak toko (*layout*) atau paket *bundling* produk murah. | **Strategic Actionable Insights:** <br>1. *Joint-Marketing Campaign* dealer bersama BAF/Adira/OTO.<br>2. Alokasi kuota unit & stok warna per leasing per wilayah.<br>3. Strategi subsidi DP/bunga khusus tenor tertentu. | **Nilai Praktis Tinggi:** Menghasilkan rekomendasi operasional dan *cross-institution decision making* tingkat korporasi. |
+| **1. Objek & Kedalaman Data** | Dominan toko suku cadang bengkel, ritel minimarket, atau motor bekas informal (skala kecil). | **Authorized Yamaha 3S Dealer** dengan 3.113 catatan transaksi riil terverifikasi. | **Empirical Grounding:** Analisis berbasis data transaksional murni dari sistem DMS enterprise tanpa manipulasi. |
+| **2. Dimensi Pembentukan Itemset** | **Single-Attribute / 1-Dimensi:** `Item_A -> Item_B` (misal: Busi -> Oli). | **Multi-Dimensional (5 Dimensi Terintegrasi):** `Model + Warna + Leasing + Tenor + Wilayah`. | **Kebaruan Metodologi:** Transformasi atribut komersial multidimensi ke dalam struktur transaksi data mining. |
+| **3. Integrasi Finansial / Multifinance** | Variabel kredit hanya diolah lewat klasifikasi risiko gagal bayar (*credit scoring*). | **Joint Association Discovery:** Memetakan interdependensi antara unit fisik dengan skema leasing dan durasi cicilan. | **Kebaruan Domain:** Menjawab konteks riil pasar otomotif berkembang (*emerging market*) di mana mayoritas pembelian berbasis kredit. |
+| **4. Efisiensi & Skalabilitas Algoritma** | Dominan menggunakan **Apriori konvensional** yang lambat pada data multi-item. | **FP-Growth dengan FP-Tree Conditional Database:** Mengeksekusi penambangan 5 dimensi tanpa *candidate generation*. | **Skalabilitas Komputasi:** Waktu eksekusi sangat efisien dan tahan terhadap lonjakan kombinasi item. |
+| **5. Dampak Manajerial** | Rekomendasi sebatas penataan rak bengkel atau diskon barang lambat terjual. | **Actionable Intelligence:** Panduan *Smart Sales Script*, alokasi stok varian warna, dan program promo bersama leasing. | **Dampak Praktis Nyata:** Menghasilkan wawasan strategis untuk peningkatan konversi penjualan dan mitigasi *lost sales*. |
 
 ---
 
-## 6. 4 PILAR NOVELTY UTAMA UNTUK DOSEN PENGAMPU (IBU SYIFA)
+## 6. KETEGASAN METODOLOGI & STANDAR EVALUASI (*RIGOROUS EVALUATION*)
 
-1. **Novelty Transformasi Data (*Multi-Attribute Predicate Basket*):** Mengubah basis data relasional faktur menjadi entitas keranjang multidimensi yang logis tanpa menghasilkan aturan absurd seperti `{Mio} -> {NMAX}`.
-2. **Novelty Integrasi Domain (*Product-Finance Bridge*):** Menjembatani analisis produk fisik dengan preferensi skema multifinance konsumen.
-3. **Novelty Validasi Matematis (*Tri-Metric Validation*):** Menjamin seluruh aturan asosiasi memenuhi ambang batas $\text{Lift Ratio} > 1.0$ (korelasi positif murni dan bukan kebetulan).
-4. **Novelty Manajerial (*Actionable Business Value*):** Menghasilkan panduan operasional nyata berupa *smart sales script* untuk memangkas *lost sales* akibat *price shock*.
+Dalam rangka memastikan keabsahan ilmiah (*scientific validity*) dan menghindari munculnya aturan asosiasi semu (*spurious rules*), penelitian ini menerapkan **Standar Evaluasi Tiga Metrik (*Tri-Metric Validation Standard*)**:
+
+1. **Ambang Batas Minimum Support ($\text{Min\_Sup}$):**  
+   Menjamin bahwa kaidah asosiasi yang terbentuk merepresentasikan frekuensi kemunculan transaksi yang signifikan secara statistik dalam populasi data, bukan kasus langka yang terisolasi.
+2. **Ambang Batas Minimum Confidence ($\text{Min\_Conf}$):**  
+   Mengukur tingkat keyakinan dan kepastian kondisional dari kaidah asosiasi $\text{Antecedent} \rightarrow \text{Consequent}$.
+3. **Ketegasan Validasi Korelasi Melalui Lift Ratio ($\text{Lift} > 1.0$):**  
+   Sebagai standar evaluasi baku dalam *Association Rule Mining*, nilai $\text{Lift Ratio}$ wajib lebih besar dari 1.0 ($\text{Lift} > 1.0$) untuk membuktikan bahwa keterkaitan antara unit motor, leasing, dan tenor merupakan **korelasi positif murni (interdependent)** dan bukan peristiwa independen yang muncul secara kebetulan (*co-occurrence by chance*).
+
 
 
