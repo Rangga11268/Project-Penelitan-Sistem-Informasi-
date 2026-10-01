@@ -49,7 +49,24 @@ Berdasarkan penelusuran mendalam terhadap basis data publikasi ilmiah:
 
 ---
 
-## 3. MATRIKS RESEARCH GAP: SINTA EKSISTING VS RISET KITA
+## 3. BUKTI EMPIRIS PENELUSURAN SINTA (2021–2026): BUKTI KETIADAAN RISET SERUPA
+
+Berdasarkan hasil penelusuran empiris pada basis data indeks jurnal SINTA (melalui MantraRiset & Google Scholar) dengan kata kunci *"FP-Growth penjualan sepeda motor"*, berikut adalah pemetaan seluruh artikel sejenis yang terbit di Indonesia:
+
+| No | Penulis & Tahun | Judul Artikel & Nama Jurnal | Peringkat SINTA | Metode / Algoritma | Fokus Kajian & Keterbatasan (*Research Gap*) |
+| :---: | :--- | :--- | :---: | :---: | :--- |
+| **1** | **Widodo et al. (2022)** | *Data Mining Menentukan Minat Konsumen Memilih Sepeda Motor Idaman* (JURSI TGD) | **SINTA 4** | Klasifikasi **C4.5** | Mengkaji minat motor Yamaha (PT Alfa Scorpii), namun menggunakan **klasifikasi pohon keputusan**, bukan penambangan pola asosiasi kombinasi produk & finansial. |
+| **2** | **Soleh et al. (2022)** | *Penerapan Data Mining Untuk Analisa Pola Pembelian Produk Menggunakan Algoritma FP-Growth* (Jurnal Rekayasa) | **SINTA 3** | **FP-Growth** | Menerapkan FP-Growth namun hanya pada keranjang belanja **suku cadang/sparepart toko** (klip, baut, oli), bukan unit motor dan pembiayaan. |
+| **3** | **Subakti & Nataliani (2022)** | *Analisis Data Transaksi untuk Penempatan Produk Prioritas Oli Motor* (Inovtek Polbeng) | **SINTA 3** | **Apriori** | Hanya meneliti tata letak produk **oli motor** pada bengkel. |
+| **4** | **Rahmatullah et al. (2022)** | *Penerapan Metode Algoritma Apriori Dalam Memprediksi Penjualan Sparepart Motor* (Jurnal Info & Komputer) | **SINTA 4** | **Apriori** | Objek dealer Yamaha (PT Lautan Teduh), namun objek data hanya berupa **sparepart bengkel servis**, bukan unit motor baru. |
+| **5** | **Handayani & Rosyid (2021)** | *Analisa Pola Pembelian Suku Cadang Menggunakan Algoritma Apriori* (Indexia) | **SINTA 6** | **Apriori** | Hanya meneliti pola servis dan suku cadang bengkel AHASS. |
+| **6** | **Nusantara et al. (2025)** | *Prediksi Penjualan Sepeda Motor Menggunakan Regresi Linier Berganda* (JITeK) | **SINTA 5** | **Regresi Linier** | Hanya memprediksi **angka/volume total penjualan bulanan**, tidak menggali keterkaitan atribut produk dan skema kredit. |
+| **7** | **Putrananda & Achsa (2023)**; **Liana et al. (2022)** | *Analisis Strategi Pemasaran Dealer Motor Yamaha & Honda* (Procuratio; Jurnal Profit) | **SINTA 5** | **Kualitatif / SWOT** | Analisis manajemen konvensional berbasis kuesioner, tidak menggunakan data mining transaksi sama sekali. |
+| **★** | **Riset Kelompok 1 (2026)** | **Multi-Attribute Association Rule Mining Menggunakan Algoritma FP-Growth pada PT. Sinar Surya Matahari** | **Target SINTA 2–4** | **FP-Growth + Multi-Attribute + Lift Ratio** | **SATU-SATUNYA RISET** yang menambang pola keterkaitan simultan: Unit Motor (Model + Warna) + Skema Pembiayaan (Leasing BAF/Adira/Oto) + Tenor Kredit (11–35 Bln) + Domisili pada 3.113 transaksi riil. |
+
+---
+
+## 4. MATRIKS RESEARCH GAP: SINTA EKSISTING VS RISET KITA
 
 | Dimensi Pembanding | Riset Rata-rata di SINTA 3–5 | Riset PT. Sinar Surya Matahari (Riset Kita) |
 | :--- | :--- | :--- |
@@ -61,9 +78,10 @@ Berdasarkan penelusuran mendalam terhadap basis data publikasi ilmiah:
 
 ---
 
-## 4. 4 PILAR NOVELTY UTAMA UNTUK DOSEN PENGAMPU (IBU SYIFA)
+## 5. 4 PILAR NOVELTY UTAMA UNTUK DOSEN PENGAMPU (IBU SYIFA)
 
 1. **Novelty Transformasi Data (*Multi-Attribute Predicate Basket*):** Mengubah basis data relasional faktur menjadi entitas keranjang multidimensi yang logis tanpa menghasilkan aturan absurd seperti `{Mio} -> {NMAX}`.
 2. **Novelty Integrasi Domain (*Product-Finance Bridge*):** Menjembatani analisis produk fisik dengan preferensi skema multifinance konsumen.
 3. **Novelty Validasi Matematis (*Tri-Metric Validation*):** Menjamin seluruh aturan asosiasi memenuhi ambang batas $\text{Lift Ratio} > 1.0$ (korelasi positif murni dan bukan kebetulan).
 4. **Novelty Manajerial (*Actionable Business Value*):** Menghasilkan panduan operasional nyata berupa *smart sales script* untuk memangkas *lost sales* akibat *price shock*.
+
