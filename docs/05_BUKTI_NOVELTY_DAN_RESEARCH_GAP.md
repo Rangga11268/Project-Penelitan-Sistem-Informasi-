@@ -80,21 +80,36 @@ Berikut adalah pemetaan mendalam terhadap 7 artikel jurnal terakreditasi nasiona
 
 ---
 
-## 5. MATRIKS HEAD-TO-HEAD: BUKTI KEUNGGULAN RISET KELOMPOK 1
+## 5. TELAAH LITERATUR MUTAKHIR 3–5 TAHUN TERAKHIR (2023–2025/2026) & PEMETAAN RESEARCH GAP TERKINI
 
-Berikut adalah perbandingan *Head-to-Head* antara literatur SINTA 1–4 terdahulu dengan riset yang kita ajukan:
+Untuk memenuhi kaidah ilmiah terkini mengenai kebaruan literatur (*state-of-the-art within the last 3–5 years*), berikut adalah pemetaan 6 artikel jurnal terakreditasi nasional SINTA 1–4 terbitan **2023 s/d 2025** yang relevan dengan metode penambangan aturan asosiasi (*Association Rule Mining*) dan komparasi algoritma:
 
-| Parameter Perbandingan | Literatur SINTA 1–4 Terdahulu | Riset Kelompok 1 (PT. Sinar Surya Matahari) | Keunggulan Ilmiah & Kontribusi Riset |
-|---|---|---|---|
-| **1. Objek & Kedalaman Data** | Dominan toko suku cadang bengkel, ritel minimarket, atau motor bekas informal (skala kecil). | **Authorized Yamaha 3S Dealer** dengan 3.113 catatan transaksi riil terverifikasi. | **Empirical Grounding:** Analisis berbasis data transaksional murni dari sistem DMS enterprise tanpa manipulasi. |
-| **2. Dimensi Pembentukan Itemset** | **Single-Attribute / 1-Dimensi:** `Item_A -> Item_B` (misal: Busi -> Oli). | **Multi-Dimensional (5 Dimensi Terintegrasi):** `Model + Warna + Leasing + Tenor + Wilayah`. | **Kebaruan Metodologi:** Transformasi atribut komersial multidimensi ke dalam struktur transaksi data mining. |
-| **3. Integrasi Finansial / Multifinance** | Variabel kredit hanya diolah lewat klasifikasi risiko gagal bayar (*credit scoring*). | **Joint Association Discovery:** Memetakan interdependensi antara unit fisik dengan skema leasing dan durasi cicilan. | **Kebaruan Domain:** Menjawab konteks riil pasar otomotif berkembang (*emerging market*) di mana mayoritas pembelian berbasis kredit. |
-| **4. Efisiensi & Skalabilitas Algoritma** | Dominan menggunakan **Apriori konvensional** yang lambat pada data multi-item. | **FP-Growth dengan FP-Tree Conditional Database:** Mengeksekusi penambangan 5 dimensi tanpa *candidate generation*. | **Skalabilitas Komputasi:** Waktu eksekusi sangat efisien dan tahan terhadap lonjakan kombinasi item. |
-| **5. Dampak Manajerial** | Rekomendasi sebatas penataan rak bengkel atau diskon barang lambat terjual. | **Actionable Intelligence:** Panduan *Smart Sales Script*, alokasi stok varian warna, dan program promo bersama leasing. | **Dampak Praktis Nyata:** Menghasilkan wawasan strategis untuk peningkatan konversi penjualan dan mitigasi *lost sales*. |
+| No | Penulis & Tahun | Judul Paper, Jurnal & Tautan Akses DOI Resmi | Peringkat SINTA | Dataset & Algoritma | Batasan / Keterbatasan Riset (*Research Gap*) |
+|:---:|:---|:---|:---:|:---|:---|
+| **1** | **Saptadi, Chyan, & Leda (2023)** | [*Analysis of Supermarket Product Purchase Transactions With the Association Data Mining Method*](https://doi.org/10.29207/resti.v7i3.4844) <br>— **Jurnal RESTI** (Vol. 7 No. 3, Hal. 618–627) | **SINTA 2** | Transaksi supermarket (4.417 data); Algoritma Apriori | **Single-Attribute FMCG:** Hanya memodelkan produk konsumsi harian berharga murah secara satu dimensi. Masih memakai Apriori klasik dengan pemindaian berulang. Tidak ada dimensi pembiayaan cicilan. |
+| **2** | **Rahman & Riana (2025)** | [*Market Basket Analysis untuk Penjualan Retail: Perbandingan Akurasi Algoritma Apriori dan FP-Growth Berbasis CRISP-DM*](https://doi.org/10.33364/algoritma/v.22-1.2303) <br>— **Jurnal Algoritma** (Vol. 22 No. 1, Hal. 468–479) | **SINTA 4** | Transaksi toko ritel (1.200 data); Apriori vs FP-Growth | **Fokus Benchmarking Teoretis:** Terbatas pada perbandingan kecepatan komputasi dasar dan aturan itemset biner pada toko kelontong, tanpa integrasi sistem pendukung keputusan multi-atribut interaktif. |
+| **3** | **Hafizh, Pratama, & Hendri (2023)** | [*Implementasi Data Mining Menggunakan Algoritma FP-Growth Untuk Menganalisa Transaksi Penjualan Ekspor Online*](https://doi.org/10.47233/jteksis.v5i3.847) <br>— **JTEKSIS** (Vol. 5 No. 3, Hal. 242–249) | **SINTA 3** | Transaksi ekspor produk (1.500 data); FP-Growth | **Tanpa Parameter Pembiayaan:** Pola aturan mengabaikan variabel instrumen finansial (kredit vs tunai, struktur uang muka DP) dan tidak menghubungkan produk bernilai tinggi dengan layanan purna jual. |
+| **4** | **Rachmawati, Cahyana, dkk. (2024)** | [*Perbandingan Algoritma Apriori dan Algoritma FP-Growth dalam Menentukan Pola Penjualan Pupuk*](https://doi.org/10.31598/jurnalresistor.v7i1.1527) <br>— **Jurnal RESISTOR** (Vol. 7 No. 1, Hal. 21–31) | **SINTA 3** | Transaksi distribusi pupuk; Apriori vs FP-Growth | **Pola Relasi Statis:** Relasi item bersifat komoditas agrikultur dengan siklus musiman sederhana, tidak dapat digeneralisasi untuk produk keputusan pembelian tinggi (*high-involvement goods*). |
+| **5** | **Muharam, Suarna, dkk. (2025)** | [*Metode FP-Growth untuk Mengoptimalkan Rekomendasi Penjualan Makanan dan Minuman di Piknik Café*](https://doi.org/10.23960/jitet.v13i1.5935) <br>— **JITET** (Vol. 13 No. 1, Hal. 401–410) | **SINTA 3** | Data POS Kafe F&B; Algoritma FP-Growth | **Low Ticket Size:** Transaksi makanan/minuman berorientasi konsumsi instan tanpa risiko kredit, uang muka, maupun dependensi skema multifinance. |
+| **6** | **Aprilliyani, Purnamasari, dkk. (2025)** | [*Model Pola Penjualan Sparepart Motor di Bengkel Riana Ditingkatkan Menggunakan Algoritma FP-Growth*](https://e-journal.janabadra.ac.id/index.php/informasiinteraktif/article/view/3412) <br>— **Jurnal Informasi Interaktif** (Vol. 10 No. 1, Hal. 1–9) | **SINTA 4** | Transaksi bengkel motor UMKM; FP-Growth (KDD) | **Skala Bengkel Servis Mikro:** Analisis hanya menghubungkan 2 item servis sederhana (misal: Oli + Tune-up) tanpa keterkaitan terhadap penjualan unit motor baru dan lembaga pembiayaan resmi. |
 
 ---
 
-## 6. KETEGASAN METODOLOGI & STANDAR EVALUASI (*RIGOROUS EVALUATION*)
+## 6. MATRIKS HEAD-TO-HEAD: BUKTI KEUNGGULAN RISET KELOMPOK 1 TERHADAP STATE-OF-THE-ART (2023–2025)
+
+Berikut adalah perbandingan *Head-to-Head* antara literatur mutakhir (2023–2025) dengan riset yang diajukan oleh Kelompok 1:
+
+| Parameter Perbandingan | Literatur SINTA Mutakhir (2023–2025) | Riset Kelompok 1 (PT. Sinar Surya Matahari) | Keunggulan Ilmiah & Kontribusi Riset |
+|---|---|---|---|
+| **1. Objek & Kedalaman Data** | Dominan toko suku cadang mikro, ritel minimarket, pupuk, atau kafe F&B. | **Authorized Yamaha 3S Dealer** dengan 3.113 catatan transaksi riil terverifikasi. | **Empirical Grounding:** Analisis berbasis data transaksional murni dari sistem DMS enterprise tanpa manipulasi. |
+| **2. Dimensi Pembentukan Itemset** | **Single-Attribute / 1-Dimensi:** `Item_A -> Item_B` (misal: Kopi -> Roti, Pupuk A -> Pupuk B). | **Multi-Dimensional (5 Dimensi Terintegrasi):** `Model + Warna + Leasing + Tenor + Wilayah`. | **Kebaruan Metodologi:** Transformasi atribut komersial multidimensi ke dalam struktur transaksi data mining. |
+| **3. Integrasi Finansial / Multifinance** | Variabel kredit tidak disertakan sama sekali atau hanya diolah lewat klasifikasi risiko gagal bayar (*credit scoring*). | **Joint Association Discovery:** Memetakan interdependensi antara unit fisik dengan skema leasing (BAF/Adira/OTO) dan durasi tenor (11–35 bln). | **Kebaruan Domain:** Menjawab konteks riil pasar otomotif berkembang (*emerging market*) di mana >75% pembelian berbasis kredit. |
+| **4. Efisiensi & Skalabilitas Algoritma** | Banyak yang masih mengkaji **Apriori konvensional** yang lambat pada data multi-item. | **FP-Growth dengan FP-Tree Conditional Database:** Mengeksekusi penambangan 5 dimensi tanpa *candidate generation*. | **Skalabilitas Komputasi:** Waktu eksekusi sangat efisien (<1 detik) dan tahan terhadap lonjakan kombinasi item. |
+| **5. Dampak Manajerial** | Rekomendasi sebatas penataan rak toko atau promo menu makanan. | **Actionable Intelligence:** Panduan *Smart Sales Script*, alokasi stok varian warna per wilayah, dan program promo subsidi bersama leasing. | **Dampak Praktis Nyata:** Menghasilkan wawasan strategis untuk peningkatan konversi penjualan dan mitigasi *lost sales*. |
+
+---
+
+## 7. KETEGASAN METODOLOGI & STANDAR EVALUASI (*RIGOROUS EVALUATION*)
 
 Dalam rangka memastikan keabsahan ilmiah (*scientific validity*) dan menghindari munculnya aturan asosiasi semu (*spurious rules*), penelitian ini menerapkan **Standar Evaluasi Tiga Metrik (*Tri-Metric Validation Standard*)**:
 
@@ -104,6 +119,7 @@ Dalam rangka memastikan keabsahan ilmiah (*scientific validity*) dan menghindari
    Mengukur tingkat keyakinan dan kepastian kondisional dari kaidah asosiasi $\text{Antecedent} \rightarrow \text{Consequent}$.
 3. **Ketegasan Validasi Korelasi Melalui Lift Ratio ($\text{Lift} > 1.0$):**  
    Sebagai standar evaluasi baku dalam *Association Rule Mining*, nilai $\text{Lift Ratio}$ wajib lebih besar dari 1.0 ($\text{Lift} > 1.0$) untuk membuktikan bahwa keterkaitan antara unit motor, leasing, dan tenor merupakan **korelasi positif murni (interdependent)** dan bukan peristiwa independen yang muncul secara kebetulan (*co-occurrence by chance*).
+
 
 
 
