@@ -39,15 +39,28 @@
 
 ## 2. DISTINGSI TEGAS: RESEARCH GAP (2021–2026) VS SCIENTIFIC NOVELTY
 
-Secara epistemologis dalam *Knowledge Discovery in Databases* (KDD) dan *Academic Discourse*, penelitian ini memisahkan secara tegas antara **Celah Riset yang Ditemukan** dengan **Kebaruan Solusi yang Diajukan**:
+Secara epistemologis dalam *Knowledge Discovery in Databases* (KDD) dan *Academic Discourse* (Swales CARS Model), penelitian ini memisahkan secara tegas antara **Celah Riset yang Ditemukan pada Literatur** dengan **Kebaruan Solusi yang Diajukan**:
 
-### A. 3 RESEARCH GAP (Kesenjangan Literatur 3–5 Tahun Terakhir: 2021–2026):
+### 📊 Matriks Distingsi Konseptual: Research Gap vs Novelty
+
+| Parameter Pembeda | **RESEARCH GAP (Celah / Kesenjangan Riset)** | **SCIENTIFIC NOVELTY (Kebaruan Ilmiah & Solusi)** |
+| :--- | :--- | :--- |
+| **Definisi Epistemologis** | Defisit pengetahuan (*void/limitation*) dalam literatur ilmiah 3–5 tahun terakhir (2021–2026). | Proposisi nilai baru (*new contribution*) yang dibangun peneliti untuk mengisi defisit pengetahuan tersebut. |
+| **Fokus Pertanyaan** | *"Apa yang belum diteliti, terbatas, atau terabaikan pada literatur terdahulu?"* | *"Metode, integrasi domain, atau wawasan orisinal apa yang kita tawarkan?"* |
+| **Peran dalam Naskah** | **Problem Statement / Justifikasi Riset** (Alasan mengapa riset ini wajib dilakukan). | **Solution / Original Contribution** (Karya orisinal yang dihasilkan oleh penelitian ini). |
+| **Posisi CARS (Swales)** | **Move 2: Establishing a Niche** (*Indicating a gap in literature*). | **Move 3: Occupying the Niche** (*Announcing the original work*). |
+
+---
+
+### 🔍 A. 3 RESEARCH GAP SPESIFIK (Kesenjangan Literatur 2021–2026):
 1. **Domain-Level Gap:** 95% riset *Association Rule Mining* otomotif (Soleh 2022, Subakti 2022, Rahmatullah 2022, Aprilliyani 2025) hanya meneliti keranjang belanja suku cadang (*spare parts*) atau bengkel servis murah. Belum ada riset asosiasi pada penjualan unit motor baru pada dealer resmi.
 2. **Product-Finance Integration Gap:** Variabel kredit/leasing selama ini selalu diteliti secara terpisah via klasifikasi risiko gagal bayar (*credit scoring* C4.5/Naive Bayes), bukan sebagai variabel asosiasi preferensi perilaku pembelian unit fisik.
 3. **Multi-Attribute Structure Gap:** Mayoritas literatur SINTA 1–4 (Saptadi 2023, Rahman & Riana 2025) masih berupa *single-attribute itemset* (`Item A -> Item B`), belum memodelkan 5 dimensi heterogen (*Unit + Warna + Leasing + Tenor + Domisili*) ke dalam satu pohon *FP-Tree*.
 
-### B. 3 NOVELTY (Kebaruan Ilmiah & Solusi yang Ditawarkan Kelompok 1):
-1. **Novelty Metodologis (*Multi-Attribute Predicate Itemset Transformation*):** Merumuskan metode transformasi transaksi faktur menjadi *predicate basket* multidimensi pada *FP-Tree* tanpa redundansi dan menyaring aturan semu.
+---
+
+### 💡 B. 3 SCIENTIFIC NOVELTY (Kebaruan Ilmiah & Solusi Kelompok 1):
+1. **Novelty Metodologis (*Multi-Attribute Predicate Itemset Transformation*):** Merumuskan metode transformasi transaksi faktur menjadi *predicate basket* multidimensi pada *FP-Tree* tanpa redundansi dan menyaring aturan semu (`{Mio} -> {NMAX}`).
 2. **Novelty Domain Interdisipliner (*Cross-Domain Product-Finance Bridge*):** Menjembatani analisis produk fisik (*high-involvement durable goods*) dengan skema pembiayaan (*multifinance structure* dan tenor 11–35 bulan) secara simultan.
 3. **Novelty Preskriptif-Manajerial (*Actionable Business Intelligence*):** Menghasilkan *Smart Sales Script* pramuniaga, alokasi stok warna wilayah, dan strategi promo bersama leasing yang terbukti valid secara statistik ($\text{Lift Ratio} > 1.0$).
 
