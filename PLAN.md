@@ -15,27 +15,27 @@
 
 ---
 
-### 🎯 3 PILIHAN JUDUL FINAL RISET PLAN A (PT. SINAR SURYA MATAHARI / SSM MOTOR)
+### 🎯 3 PILIHAN JUDUL FINAL RISET PLAN A (STANDAR KEN HYLAND & JAMES HARTLEY)
 
-Berikut adalah 3 formulasi judul final teruji untuk diajukan ke Dosen Pengampu (Ibu Syifa Nur Rakhmah, M.Kom.):
+Berikut adalah 3 formulasi judul teruji untuk diajukan ke Dosen Pengampu (Ibu Syifa Nur Rakhmah, M.Kom.):
 
-#### 🌟 Pilihan 1 (Rekomendasi Utama #1 - Fokus Multi-Attribute & Preferensi Finansial)
-> **"Penerapan Algoritma FP-Growth dalam Multi-Attribute Association Rule Mining untuk Analisis Pola Pembelian Sepeda Motor dan Preferensi Skema Pembiayaan Konsumen (Studi Kasus: PT. Sinar Surya Matahari)"**
-* **Versi Bahasa Inggris:** *"Application of FP-Growth Algorithm in Multi-Attribute Association Rule Mining for Motorcycle Purchase Patterns and Consumer Financing Scheme Preferences (Case Study: PT. Sinar Surya Matahari)"*
+#### 🏆 Pilihan 1 (Rekomendasi Utama #1 - Compound Title Standard SINTA 1–2 / Scopus)
+> **"Multi-Attribute Association Rule Mining Menggunakan Algoritma FP-Growth: Analisis Pola Pembelian dan Preferensi Pembiayaan Konsumen Sepeda Motor"**
+* **Versi Bahasa Inggris (IEEE / Scopus Ready):** *"Multi-Attribute Association Rule Mining Using FP-Growth Algorithm: Uncovering Motorcycle Purchasing Patterns and Consumer Financing Preferences"*
 * **Sudut Pandang:** Integrasi Karakteristik Produk Fisik & Keputusan Finansial Konsumen (*Product-Finance Integration*).
 * **Masalah Bisnis:** Mengatasi kegagalan closing akibat penawaran cicilan/tenor yang tidak sesuai (*price shock & leasing mismatch*).
 * **Manfaat Terapan:** Panduan penawaran cerdas (*smart sales script*) bagi pramuniaga dealer dan program promo bersama leasing.
 
-#### 🌟 Pilihan 2 (Fokus Strategi Bisnis & Bundling Paket Pembiayaan)
-> **"Analisis Pola Transaksi Penjualan Sepeda Motor Menggunakan Algoritma FP-Growth untuk Perumusan Strategi Bundling Paket Pembiayaan Konsumen (Studi Kasus: PT. Sinar Surya Matahari)"**
-* **Versi Bahasa Inggris:** *"FP-Growth Based Motorcycle Sales Transaction Pattern Analysis for Formulating Consumer Financing Package Bundling Strategies (Case Study: PT. Sinar Surya Matahari)"*
+#### 💼 Pilihan 2 (Alternatif Formal dengan Nama Dealer Lokal)
+> **"Multi-Attribute Association Rule Mining Berbasis FP-Growth untuk Analisis Pola Transaksi dan Skema Pembiayaan Sepeda Motor pada PT. Sinar Surya Matahari"**
+* **Versi Bahasa Inggris:** *"FP-Growth Based Multi-Attribute Association Rule Mining for Motorcycle Sales Transaction and Financing Scheme Analysis at PT. Sinar Surya Matahari"*
 * **Sudut Pandang:** Sistem Pendukung Keputusan Penjualan (*Business Intelligence & Decision Support*).
 * **Masalah Bisnis:** Inefisiensi anggaran promosi dealer dan ketiadaan segmentasi paket kredit per model motor.
 * **Manfaat Terapan:** Formulasi paket promo pembiayaan (*joint bundling promo*) antara dealer dan leasing (BAF, Adira, OTO).
 
-#### 🌟 Pilihan 3 (Fokus Perilaku Konsumen Multidimensi & Tenor Pembiayaan)
-> **"Penambangan Kaidah Asosiasi Multidimensi Berbasis FP-Growth untuk Eksplorasi Pola Preferensi Konsumen Kendaraan Bermotor Roda Dua Berdasarkan Atribut Produk dan Tenor Pembiayaan"**
-* **Versi Bahasa Inggris:** *"Mining Multi-Dimensional Association Rules Based on FP-Growth for Exploring Two-Wheeled Motor Vehicle Consumer Preference Patterns Based on Product Attributes and Financing Tenor"*
+#### 🔬 Pilihan 3 (Alternatif Fokus Perilaku Konsumen & Industri Otomotif)
+> **"Analisis Asosiasi Multi-Atribut Berbasis Algoritma FP-Growth pada Pola Transaksi dan Skema Pembiayaan Otomotif Roda Dua"**
+* **Versi Bahasa Inggris:** *"Multi-Attribute Association Analysis Based on FP-Growth Algorithm for Transaction Patterns and Financing Schemes in Two-Wheeled Automotive"*
 * **Sudut Pandang:** Analisis Perilaku Konsumen (*Consumer Behavior Mining & Spatial Profiling*).
 * **Masalah Bisnis:** Ketidaktahuan manajemen dealer terhadap elastisitas pemilihan tenor cicilan (11–35 bulan) lintas wilayah cabang.
 * **Manfaat Terapan:** Pemetaan karakteristik demografis konsumen per cabang untuk distribusi stok dan materi promosi.

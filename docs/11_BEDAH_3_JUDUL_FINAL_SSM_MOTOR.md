@@ -7,24 +7,23 @@
 
 ---
 
-## 🎯 RINGKASAN KOMPARASI 3 PILIHAN JUDUL FINAL
+## 🎯 RINGKASAN KOMPARASI 3 PILIHAN JUDUL FINAL (STANDAR KEN HYLAND & HARTLEY)
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                   3 PILIHAN FORMULASI JUDUL SINTA UNTUK PT. SINAR SURYA MATAHARI                 │
+│                   3 PILIHAN FORMULASI JUDUL TERBAIK (STANDAR KEN HYLAND & HARTLEY)               │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ PILIHAN 1 (Fokus Multi-Attribute Association Mining & Preferensi Finansial - REKOMENDASI UTAMA)   │
-│ "Penerapan Algoritma FP-Growth dalam Multi-Attribute Association Rule Mining untuk Analisis      │
-│ Pola Pembelian Sepeda Motor dan Preferensi Skema Pembiayaan Konsumen (Studi Kasus: PT. Sinar     │
-│ Surya Matahari)"                                                                                 │
+│ 🏆 PILIHAN 1 (REKOMENDASI UTAMA - COMPOUND TITLE STANDARD SINTA 1–2 / SCOPUS):                   │
+│ "Multi-Attribute Association Rule Mining Menggunakan Algoritma FP-Growth: Analisis Pola          │
+│ Pembelian dan Preferensi Pembiayaan Konsumen Sepeda Motor"                                       │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ PILIHAN 2 (Fokus Strategi Bisnis & Paket Pembiayaan Dealer - Business Intelligence Perspective)   │
-│ "Analisis Pola Transaksi Penjualan Sepeda Motor Menggunakan Algoritma FP-Growth untuk            │
-│ Perumusan Strategi Bundling Paket Pembiayaan Konsumen (Studi Kasus: PT. Sinar Surya Matahari)"   │
+│ 💼 PILIHAN 2 (ALTERNATIF FORMAL DENGAN NAMA DEALER LOKAL):                                       │
+│ "Multi-Attribute Association Rule Mining Berbasis FP-Growth untuk Analisis Pola Transaksi        │
+│ dan Skema Pembiayaan Sepeda Motor pada PT. Sinar Surya Matahari"                                 │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ PILIHAN 3 (Fokus Perilaku Konsumen Multidimensi & Tenor Kredit - Consumer Behavior Perspective)  │
-│ "Penambangan Kaidah Asosiasi Multidimensi Berbasis FP-Growth untuk Eksplorasi Pola Preferensi    │
-│ Konsumen Kendaraan Bermotor Roda Dua Berdasarkan Atribut Produk dan Tenor Pembiayaan"            │
+│ 🔬 PILIHAN 3 (ALTERNATIF FOKUS STRATEGI BISNIS & DOMAIN OTOMOTIF):                               │
+│ "Analisis Asosiasi Multi-Atribut Berbasis Algoritma FP-Growth pada Pola Transaksi dan Skema      │
+│ Pembiayaan Otomotif Roda Dua"                                                                    │
 └──────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -34,12 +33,13 @@
 
 ---
 
-## 🌟 PILIHAN 1 (REKOMENDASI UTAMA / FAVORIT #1)
+## 🌟 PILIHAN 1 (REKOMENDASI UTAMA / FAVORIT #1 - FORMAT COMPOUND TITLE)
 > **Judul Bahasa Indonesia:**  
-> **"Penerapan Algoritma FP-Growth dalam *Multi-Attribute Association Rule Mining* untuk Analisis Pola Pembelian Sepeda Motor dan Preferensi Skema Pembiayaan Konsumen (Studi Kasus: PT. Sinar Surya Matahari)"**
+> **"Multi-Attribute Association Rule Mining Menggunakan Algoritma FP-Growth: Analisis Pola Pembelian dan Preferensi Pembiayaan Konsumen Sepeda Motor"**
 >
-> **Versi Bahasa Inggris:**  
-> *"Application of FP-Growth Algorithm in Multi-Attribute Association Rule Mining for Motorcycle Purchase Patterns and Consumer Financing Scheme Preferences (Case Study: PT. Sinar Surya Matahari)"*
+> **Versi Bahasa Inggris (IEEE / Scopus Ready):**  
+> *"Multi-Attribute Association Rule Mining Using FP-Growth Algorithm: Uncovering Motorcycle Purchasing Patterns and Consumer Financing Preferences"*
+
 
 ### 1. Sudut Pandang Riset (*Research Perspective*):
 * **Fokus Utama:** Penggabungan Karakteristik Produk Fisik Kendaraan dengan Dimensi Finansial (*Product-Finance Integration*).

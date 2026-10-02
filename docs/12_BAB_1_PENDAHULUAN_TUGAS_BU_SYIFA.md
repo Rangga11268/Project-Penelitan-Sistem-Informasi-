@@ -1,7 +1,9 @@
 # BAB I PENDAHULUAN
 
 **Judul Penelitian:**  
-**"Penerapan Algoritma FP-Growth dalam *Multi-Attribute Association Rule Mining* untuk Analisis Pola Pembelian Sepeda Motor dan Preferensi Skema Pembiayaan Konsumen (Studi Kasus: PT. Sinar Surya Matahari)"**
+**"Multi-Attribute Association Rule Mining Menggunakan Algoritma FP-Growth: Analisis Pola Pembelian dan Preferensi Pembiayaan Konsumen Sepeda Motor"**  
+*(Studi Kasus: PT. Sinar Surya Matahari)*
+
 
 **Mata Kuliah:** Penelitian Sistem Informasi (Semester 5)  
 **Dosen Pengampu:** Syifa Nur Rakhmah, M.Kom.  

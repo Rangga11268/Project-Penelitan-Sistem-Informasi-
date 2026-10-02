@@ -11,39 +11,45 @@
 
 ---
 
-## 1. 3 PILIHAN JUDUL FINAL RISET (PLAN A: PT. SINAR SURYA MATAHARI)
+## 1. 3 PILIHAN FORMULASI JUDUL TERBAIK (STANDAR KEN HYLAND & JAMES HARTLEY)
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                   3 PILIHAN FORMULASI JUDUL SINTA UNTUK PT. SINAR SURYA MATAHARI                 │
+│                   3 FORMULASI JUDUL TERBAIK (STANDAR KEN HYLAND & JAMES HARTLEY)                 │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ PILIHAN 1 (Fokus Multi-Attribute Association Mining & Preferensi Finansial - REKOMENDASI UTAMA)   │
-│ "Penerapan Algoritma FP-Growth dalam Multi-Attribute Association Rule Mining untuk Analisis      │
-│ Pola Pembelian Sepeda Motor dan Preferensi Skema Pembiayaan Konsumen (Studi Kasus: PT. Sinar     │
-│ Surya Matahari)"                                                                                 │
+│ 🏆 PILIHAN 1 (REKOMENDASI UTAMA - COMPOUND TITLE STANDARD SINTA 1–2 / SCOPUS):                   │
+│ "Multi-Attribute Association Rule Mining Menggunakan Algoritma FP-Growth: Analisis Pola          │
+│ Pembelian dan Preferensi Pembiayaan Konsumen Sepeda Motor"                                       │
+│                                                                                                  │
+│ ➔ Versi Bahasa Inggris (IEEE / Scopus Ready):                                                    │
+│ "Multi-Attribute Association Rule Mining Using FP-Growth Algorithm: Uncovering Motorcycle        │
+│ Purchasing Patterns and Consumer Financing Preferences"                                          │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ PILIHAN 2 (Fokus Strategi Bisnis & Paket Pembiayaan Dealer - Business Intelligence Perspective)   │
-│ "Analisis Pola Transaksi Penjualan Sepeda Motor Menggunakan Algoritma FP-Growth untuk            │
-│ Perumusan Strategi Bundling Paket Pembiayaan Konsumen (Studi Kasus: PT. Sinar Surya Matahari)"   │
+│ 💼 PILIHAN 2 (ALTERNATIF FORMAL DENGAN NAMA DEALER LOKAL):                                       │
+│ "Multi-Attribute Association Rule Mining Berbasis FP-Growth untuk Analisis Pola Transaksi        │
+│ dan Skema Pembiayaan Sepeda Motor pada PT. Sinar Surya Matahari"                                 │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ PILIHAN 3 (Fokus Perilaku Konsumen Multidimensi & Tenor Kredit - Consumer Behavior Perspective)  │
-│ "Penambangan Kaidah Asosiasi Multidimensi Berbasis FP-Growth untuk Eksplorasi Pola Preferensi    │
-│ Konsumen Kendaraan Bermotor Roda Dua Berdasarkan Atribut Produk dan Tenor Pembiayaan"            │
+│ 🔬 PILIHAN 3 (ALTERNATIF FOKUS STRATEGI BISNIS & DOMAIN OTOMOTIF):                               │
+│ "Analisis Asosiasi Multi-Atribut Berbasis Algoritma FP-Growth pada Pola Transaksi dan Skema      │
+│ Pembiayaan Otomotif Roda Dua"                                                                    │
 └──────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 2. LANDASAN KEBARUAN ILMIAH (SCIENTIFIC NOVELTY & RESEARCH GAP)
+## 2. DISTINGSI TEGAS: RESEARCH GAP (2021–2026) VS SCIENTIFIC NOVELTY
 
-Secara epistemologis dan metodologis dalam disiplin ilmu Sistem Informasi / *Knowledge Discovery in Databases* (KDD), kebaruan (*novelty*) penelitian ini **bukan semata-mata terletak pada objek studi kasus (PT. Sinar Surya Matahari)**, melainkan pada **3 Pilar Kontribusi Ilmiah & Metodologis**:
+Secara epistemologis dalam *Knowledge Discovery in Databases* (KDD) dan *Academic Discourse*, penelitian ini memisahkan secara tegas antara **Celah Riset yang Ditemukan** dengan **Kebaruan Solusi yang Diajukan**:
 
-1. **Kontribusi Metodologis (*Multi-Attribute Predicate Itemset Transformation*):**  
-   Mayoritas riset aturan asosiasi (*Association Rule Mining*) di Indonesia memperlakukan transaksi sebagai *single-attribute basket* (misal: antarsuku cadang). Penelitian ini merumuskan metode transformasi data transaksi faktur tunggal menjadi *multi-dimensional predicate itemset* (Model, Warna, Lembaga Pembiayaan, Tenor Cicilan, dan Wilayah) yang diindeks ke dalam *FP-Tree* kompak tanpa menimbulkan redundansi kombinatorik atau aturan semu (*trivial rules*).
-2. **Kontribusi Domain Interdisipliner (*Product-Finance Association Bridge*):**  
-   Menjembatani analisis karakteristik fisik produk bernilai tinggi (*high-involvement durable goods*) dengan preferensi instrumen pembiayaan konsumen (*multifinance structure*). Selama ini, variabel kredit di industri otomotif hanya dimodelkan via klasifikasi kelayakan kredit (*credit scoring/risk*), bukan sebagai pola perilaku preferensi komersial (*commercial bundling preferences*).
-3. **Kontribusi Preskriptif-Manajerial (*Actionable Business Intelligence*):**  
-   Menghasilkan kaidah asosiasi teruji yang ditransformasikan menjadi panduan preskriptif operasional, seperti *Smart Sales Script* untuk tenaga pemasar dealer, alokasi inventaris warna berbasis preferensi lembaga leasing per wilayah, dan perumusan skema subsidi pembiayaan bersama (*Joint Multifinance Campaign*).
+### A. 3 RESEARCH GAP (Kesenjangan Literatur 3–5 Tahun Terakhir: 2021–2026):
+1. **Domain-Level Gap:** 95% riset *Association Rule Mining* otomotif (Soleh 2022, Subakti 2022, Rahmatullah 2022, Aprilliyani 2025) hanya meneliti keranjang belanja suku cadang (*spare parts*) atau bengkel servis murah. Belum ada riset asosiasi pada penjualan unit motor baru pada dealer resmi.
+2. **Product-Finance Integration Gap:** Variabel kredit/leasing selama ini selalu diteliti secara terpisah via klasifikasi risiko gagal bayar (*credit scoring* C4.5/Naive Bayes), bukan sebagai variabel asosiasi preferensi perilaku pembelian unit fisik.
+3. **Multi-Attribute Structure Gap:** Mayoritas literatur SINTA 1–4 (Saptadi 2023, Rahman & Riana 2025) masih berupa *single-attribute itemset* (`Item A -> Item B`), belum memodelkan 5 dimensi heterogen (*Unit + Warna + Leasing + Tenor + Domisili*) ke dalam satu pohon *FP-Tree*.
+
+### B. 3 NOVELTY (Kebaruan Ilmiah & Solusi yang Ditawarkan Kelompok 1):
+1. **Novelty Metodologis (*Multi-Attribute Predicate Itemset Transformation*):** Merumuskan metode transformasi transaksi faktur menjadi *predicate basket* multidimensi pada *FP-Tree* tanpa redundansi dan menyaring aturan semu.
+2. **Novelty Domain Interdisipliner (*Cross-Domain Product-Finance Bridge*):** Menjembatani analisis produk fisik (*high-involvement durable goods*) dengan skema pembiayaan (*multifinance structure* dan tenor 11–35 bulan) secara simultan.
+3. **Novelty Preskriptif-Manajerial (*Actionable Business Intelligence*):** Menghasilkan *Smart Sales Script* pramuniaga, alokasi stok warna wilayah, dan strategi promo bersama leasing yang terbukti valid secara statistik ($\text{Lift Ratio} > 1.0$).
 
 ---
 
