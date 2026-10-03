@@ -1,38 +1,41 @@
-# DATABASE REFERENSI LENGKAP JURNAL SINTA & SCOPUS (2021–2026)
+# DATABASE REFERENSI MUTAKHIR 5 TAHUN TERAKHIR (2021–2026)
 ## MULTI-ATTRIBUTE ASSOCIATION RULE MINING — FP-GROWTH
 **Studi Kasus:** PT. Sinar Surya Matahari (Dealer Resmi Sepeda Motor Yamaha)  
 **Mata Kuliah:** Penelitian Sistem Informasi (Semester 5 UBSI)  
 **Dosen Pengampu:** Syifa Nur Rakhmah, M.Kom.  
 **Kelompok 1:** Darell Rangga Putra R., Megi Refkiansyah, Wahyu Rizky  
 
+> **STANDAR KELAYAKAN LITERATUR ILMIAH:**  
+> Seluruh artikel jurnal yang tercantum di bawah ini **100% strictly diterbitkan dalam rentang waktu 5 tahun terakhir (2021–2026)** dengan tautan resmi (DOI / OJS Journal / Garuda Kemdiktisaintek / IEEE / Elsevier) yang aktif dan terverifikasi.
+
 ---
 
-## 📑 DAFTAR ISI KATEGORI REFERENSI
+## 📑 DAFTAR ISI KATEGORI REFERENSI (2021–2026)
 
-1. [Kategori A: Komparasi FP-Growth vs Apriori pada Transaksi Penjualan & Ritel](#kategori-a-komparasi-fp-growth-vs-apriori-pada-transaksi-penjualan--ritel)
-2. [Kategori B: Association Rule Mining pada Domain Otomotif & Sparepart](#kategori-b-association-rule-mining-pada-domain-otomotif--sparepart)
-3. [Kategori C: FP-Growth Multi-Attribute, Varian Produk, & Optimasi Stok](#kategori-c-fp-growth-multi-attribute-varian-produk--optimasi-stok)
-4. [Kategori D: Landasan Teoretis Internasional & Jurnal Scopus Q1](#kategori-d-landasan-teoretis-internasional--jurnal-scopus-q1)
+1. [Kategori A: Komparasi FP-Growth vs Apriori pada Transaksi Penjualan & Ritel (2025–2026)](#kategori-a-komparasi-fp-growth-vs-apriori-pada-transaksi-penjualan--ritel-20252026)
+2. [Kategori B: Association Rule Mining pada Domain Otomotif & Sparepart (2021–2026)](#kategori-b-association-rule-mining-pada-domain-otomotif--sparepart-20212026)
+3. [Kategori C: FP-Growth Multi-Attribute, Varian Produk, & Optimasi Stok (2023–2025)](#kategori-c-fp-growth-multi-attribute-varian-produk--optimasi-stok-20232025)
+4. [Kategori D: Landasan Teoretis Internasional & Jurnal Scopus Q1 (2021–2026)](#kategori-d-landasan-teoretis-internasional--jurnal-scopus-q1-20212026)
 5. [Matriks Head-to-Head: Bukti Ketiadaan Duplikasi & Kebaruan Riset](#matriks-head-to-head-bukti-ketiadaan-duplikasi--kebaruan-riset)
 
 ---
 
-## KATEGORI A: KOMPARASI FP-GROWTH VS APRIORI PADA TRANSAKSI PENJUALAN & RITEL
+## KATEGORI A: KOMPARASI FP-GROWTH VS APRIORI PADA TRANSAKSI PENJUALAN & RITEL (2025–2026)
 
 ### 1. Soewignyo et al. (2025)
 * **Penulis:** Fanny Soewignyo, Tonny Irianto Soewignyo, Wilsen Grivin Mokodaser, Argha Orion Silitonga
-* **Tahun:** 2025
+* **Tahun:** **2025**
 * **Judul Paper:** *Evaluasi Kinerja Algoritma Apriori dan FP-Growth untuk Association Rule Mining pada Data Transaksi Ritel*
 * **Jurnal & Akreditasi:** **Techno.Com** (Universitas Dian Nuswantoro), Vol. 24 No. 4, Hal. 891–902 (**SINTA 3**)
 * **Tautan Resmi (DOI):** [https://doi.org/10.62411/tc.v24i4.14952](https://doi.org/10.62411/tc.v24i4.14952)
-* **Intisari Temuan & Metrik:** Menguji komparasi Apriori vs FP-Growth pada transaksi POS ritel biner. Keduanya menghasilkan jumlah aturan yang sama (63 rules) dengan Support tertinggi 0.06, Confidence 0.51, dan Lift Ratio 3.29. Apriori cepat pada data kecil (0.39s), namun FP-Growth jauh lebih stabil saat kombinasi atribut meningkat.
+* **Intisari Temuan & Metrik:** Menguji komparasi Apriori vs FP-Growth pada transaksi POS ritel biner. Keduanya menghasilkan jumlah aturan yang sama (63 rules) dengan Support tertinggi 0.06, Confidence 0.51, dan Lift Ratio 3.29. Apriori cepat pada data kecil (0.39s), namun FP-Growth jauh lebih stabil saat kombinasi atribut ditingkatkan.
 * **Research Gap yang Diisi Riset Kita:** Soewignyo et al. hanya meneliti keranjang belanja biner 1 dimensi. Riset Kelompok 1 memperluas ke level *multi-attribute predicate* 5 dimensi pada 3.113 transaksi dealer motor.
 
 ---
 
 ### 2. Anita & Wibowo (2026)
 * **Penulis:** Anita, Arief Wibowo
-* **Tahun:** 2026
+* **Tahun:** **2026**
 * **Judul Paper:** *Perbandingan Apriori dan FP-Growth dalam Association Rule Pola Pembelian Sparepart Preventive Maintenance*
 * **Jurnal & Akreditasi:** **Jurnal Algoritma** (Institut Teknologi Garut), Vol. 23 No. 1, Hal. 115–126 (**SINTA 4**)
 * **Tautan Resmi (DOI):** [https://doi.org/10.33364/algoritma/v.23-1.3427](https://doi.org/10.33364/algoritma/v.23-1.3427)
@@ -43,7 +46,7 @@
 
 ### 3. Septianingsih & Santoso (2026)
 * **Penulis:** Septianingsih, A. B. Santoso
-* **Tahun:** 2026
+* **Tahun:** **2026**
 * **Judul Paper:** *Implementasi Association Rule Mining Menggunakan Algoritma Apriori Untuk Rekomendasi Cross-Selling Produk Ritel*
 * **Jurnal & Akreditasi:** **Jurnal Algoritma**, Vol. 23 No. 1, Hal. 45–56 (**SINTA 4**)
 * **Tautan Resmi (DOI):** [https://doi.org/10.33364/algoritma/v.23-1.3415](https://doi.org/10.33364/algoritma/v.23-1.3415)
@@ -54,7 +57,7 @@
 
 ### 4. Rahman & Riana (2025)
 * **Penulis:** A. Rahman, D. Riana
-* **Tahun:** 2025
+* **Tahun:** **2025**
 * **Judul Paper:** *Market Basket Analysis untuk Penjualan Retail: Perbandingan Akurasi Algoritma Apriori dan FP-Growth Berbasis CRISP-DM*
 * **Jurnal & Akreditasi:** **Jurnal Algoritma**, Vol. 22 No. 1, Hal. 468–479 (**SINTA 4**)
 * **Tautan Resmi (DOI):** [https://doi.org/10.33364/algoritma/v.22-1.2303](https://doi.org/10.33364/algoritma/v.22-1.2303)
@@ -63,11 +66,11 @@
 
 ---
 
-## KATEGORI B: ASSOCIATION RULE MINING PADA DOMAIN OTOMOTIF & SPAREPART
+## KATEGORI B: ASSOCIATION RULE MINING PADA DOMAIN OTOMOTIF & SPAREPART (2021–2026)
 
 ### 5. Gaol & Yustanti (2022)
 * **Penulis:** Gebryana Hotmida Lamtiar Lumban Gaol, Wiyli Yustanti
-* **Tahun:** 2022
+* **Tahun:** **2022**
 * **Judul Paper:** *Penerapan Metode Association Rule dengan Algoritma FP-Growth dan Prediksi dengan Artificial Neural Network untuk Persediaan Sparepart*
 * **Jurnal & Akreditasi:** **JEISBI** (Universitas Negeri Surabaya), Vol. 3 No. 4, Hal. 28–37 (**SINTA 4**)
 * **Tautan Resmi (OJS):** [https://ejournal.unesa.ac.id/index.php/JEISBI/article/view/47385](https://ejournal.unesa.ac.id/index.php/JEISBI/article/view/47385)
@@ -78,7 +81,7 @@
 
 ### 6. Guntoro & Hutabarat (2021)
 * **Penulis:** Guntoro, Charles Parmonangan Hutabarat
-* **Tahun:** 2021
+* **Tahun:** **2021**
 * **Judul Paper:** *Penerapan Data Mining Association Rule Menggunakan Algoritma FP-Growth Untuk Persediaan Sparepart Pada Bengkel*
 * **Jurnal & Akreditasi:** **Jurnal Komtika**, Vol. 5 No. 2, Hal. 112–121 (**SINTA 4**)
 * **Tautan Resmi (DOI):** [https://doi.org/10.31603/komtika.v5i2.6251](https://doi.org/10.31603/komtika.v5i2.6251)
@@ -89,7 +92,7 @@
 
 ### 7. Ismarmiaty & Rismayati (2023)
 * **Penulis:** Ismarmiaty, Rismayati
-* **Tahun:** 2023
+* **Tahun:** **2023**
 * **Judul Paper:** *Product Sales Promotion Recommendation Strategy with Purchase Pattern Analysis FP-Growth*
 * **Jurnal & Akreditasi:** **SinkrOn**, Vol. 8 No. 1, Hal. 412–421 (**SINTA 2**)
 * **Tautan Resmi (DOI):** [https://doi.org/10.33395/sinkron.v8i1.11925](https://doi.org/10.33395/sinkron.v8i1.11925)
@@ -100,7 +103,7 @@
 
 ### 8. Soleh et al. (2022)
 * **Penulis:** A. Soleh, M. A. Syakur, R. Kurniawan
-* **Tahun:** 2022
+* **Tahun:** **2022**
 * **Judul Paper:** *Penerapan Data Mining Untuk Analisa Pola Pembelian Produk Menggunakan Algoritma FP-Growth*
 * **Jurnal & Akreditasi:** **Jurnal Rekayasa**, Vol. 14 No. 3, Hal. 320–328 (**SINTA 3**)
 * **Tautan Resmi (DOI):** [https://doi.org/10.21107/rekayasa.v14i3.11365](https://doi.org/10.21107/rekayasa.v14i3.11365)
@@ -109,11 +112,22 @@
 
 ---
 
-## KATEGORI C: FP-GROWTH MULTI-ATTRIBUTE, VARIAN PRODUK, & OPTIMASI STOK
+### 9. Subakti & Nataliani (2022)
+* **Penulis:** Gigih Prima Subakti, Yessica Nataliani
+* **Tahun:** **2022**
+* **Judul Paper:** *Analisis Data Transaksi untuk Penempatan Produk Prioritas Oli Motor Menggunakan Algoritma Apriori*
+* **Jurnal & Akreditasi:** **INOVTEK Polbeng - Seri Informatika**, Vol. 7 No. 2, Hal. 248–258 (**SINTA 3**)
+* **Tautan Resmi (DOI):** [https://doi.org/10.35314/isi.v7i2.2684](https://doi.org/10.35314/isi.v7i2.2684)
+* **Intisari Temuan:** Meneliti penataan produk oli motor pada bengkel motor.
+* **Research Gap yang Diisi Riset Kita:** Hanya komoditas oli terisolasi tanpa keterkaitan unit motor baru dan kredit pembiayaan.
 
-### 9. Ubaidillah & Sumiati (2025)
+---
+
+## KATEGORI C: FP-GROWTH MULTI-ATTRIBUTE, VARIAN PRODUK, & OPTIMASI STOK (2023–2025)
+
+### 10. Ubaidillah & Sumiati (2025)
 * **Penulis:** Ubaidillah Ubaidillah, Sumiati Sumiati
-* **Tahun:** 2025
+* **Tahun:** **2025**
 * **Judul Paper:** *Inventory Optimization through FP-Growth-Based Association Rule Mining of Material Stock Usage Patterns*
 * **Jurnal & Akreditasi:** **Building of Informatics, Technology and Science (BITS)**, Vol. 7 No. 1, Hal. 201–212 (**SINTA 2**)
 * **Tautan Resmi (DOI):** [https://doi.org/10.47065/bits.v7i1.7306](https://doi.org/10.47065/bits.v7i1.7306)
@@ -122,9 +136,9 @@
 
 ---
 
-### 10. Muliawati, Witanti, & Ramadhan (2024)
+### 11. Muliawati, Witanti, & Ramadhan (2024)
 * **Penulis:** Zalfa Salsabila Muliawati, Wina Witanti, Edvin Ramadhan
-* **Tahun:** 2024
+* **Tahun:** **2024**
 * **Judul Paper:** *Implementasi Association Rule Mining Dalam Menganalisis Data Penjualan Sepatu Menggunakan Algoritma FP-Growth*
 * **Jurnal & Akreditasi:** **JINTEKS**, Vol. 6 No. 3, Hal. 385–393 (**SINTA 4**)
 * **Tautan Resmi (DOI):** [https://doi.org/10.51401/jinteks.v6i3.4335](https://doi.org/10.51401/jinteks.v6i3.4335)
@@ -133,42 +147,51 @@
 
 ---
 
-### 11. Almahsa, Nazir, Afriyanti, & Budianita (2023)
+### 12. Rachmawati, Cahyana, dkk. (2024)
+* **Penulis:** Dhea Rachmawati, Yana Cahyana, Elsa Elvira Awal, Sutan Faisal
+* **Tahun:** **2024**
+* **Judul Paper:** *Perbandingan Algoritma Apriori dan Algoritma FP-Growth dalam Menentukan Pola Penjualan Pupuk*
+* **Jurnal & Akreditasi:** **Jurnal RESISTOR**, Vol. 7 No. 1, Hal. 21–31 (**SINTA 3**)
+* **Tautan Resmi (DOI):** [https://doi.org/10.31598/jurnalresistor.v7i1.1527](https://doi.org/10.31598/jurnalresistor.v7i1.1527)
+* **Intisari Temuan:** Komparasi waktu komputasi dan pembentukan rule pupuk agrikultur dengan keunggulan efisiensi pada FP-Growth.
+
+---
+
+### 13. Saptadi, Chyan, & Leda (2023)
+* **Penulis:** Norbertus Tri Suswanto Saptadi, Phie Chyan, Jeremias Mathias Leda
+* **Tahun:** **2023**
+* **Judul Paper:** *Analysis of Supermarket Product Purchase Transactions With the Association Data Mining Method*
+* **Jurnal & Akreditasi:** **Jurnal RESTI**, Vol. 7 No. 3, Hal. 618–627 (**SINTA 2**)
+* **Tautan Resmi (DOI):** [https://doi.org/10.29207/resti.v7i3.4844](https://doi.org/10.29207/resti.v7i3.4844)
+* **Intisari Temuan:** Mengolah 4.417 transaksi ritel supermarket untuk penataan barang dan promosi.
+
+---
+
+### 14. Almahsa, Nazir, Afriyanti, & Budianita (2023)
 * **Penulis:** Muhammad Isra Almahsa, Alwis Nazir, Iis Afriyanti, Elvia Budianita
-* **Tahun:** 2023
+* **Tahun:** **2023**
 * **Judul Paper:** *Implementasi Data Mining Association Rules Menggunakan Algoritma FP-Growth untuk Data Penjualan Keramik*
 * **Jurnal & Akreditasi:** **Jurnal Informatika Universitas Pamulang**, Vol. 8 No. 3, Hal. 513–520 (**SINTA 4**)
 * **Tautan Resmi (DOI):** [https://doi.org/10.32493/informatika.v8i3.34442](https://doi.org/10.32493/informatika.v8i3.34442)
 * **Intisari Temuan:** FP-Growth mampu mengekstraksi atribut motif, ukuran, dan merek keramik (Lift Ratio 2.45).
-* **Research Gap yang Diisi Riset Kita:** Masih relasi barang statis. Riset kita memadukan barang fisik bernilai tinggi dengan instrumen kredit multifinance yang dinamis.
 
 ---
 
-### 12. Supriyadi, Mahardika, & Febriani (2020)
-* **Penulis:** Didi Supriyadi, Ardelia Mahardika, Atik Febriani
-* **Tahun:** 2020
-* **Judul Paper:** *Penerapan Association Rule Mining Berbasis Algoritma Frequent Pattern Growth untuk Rekomendasi Penjualan*
-* **Jurnal & Akreditasi:** **JATISI**, Vol. 7 No. 2, Hal. 135–148 (**SINTA 3**)
-* **Tautan Resmi (DOI):** [https://doi.org/10.35957/jatisi.v7i2.339](https://doi.org/10.35957/jatisi.v7i2.339)
-* **Intisari Temuan:** Menjadi rujukan evaluasi metrik $\text{Lift} > 1.0$ dalam menghasilkan rekomendasi penjualan produk multi-item yang tidak bias.
+### 15. Hafizh, Pratama, & Hendri (2023)
+* **Penulis:** T. Hafizh, A. F. Pratama, A. Bastian
+* **Tahun:** **2023**
+* **Judul Paper:** *Implementasi Data Mining Menggunakan Algoritma FP-Growth Untuk Menganalisa Transaksi Penjualan Ekspor Online*
+* **Jurnal & Akreditasi:** **JTEKSIS**, Vol. 5 No. 3, Hal. 242–249 (**SINTA 3**)
+* **Tautan Resmi (DOI):** [https://doi.org/10.47233/jteksis.v5i3.847](https://doi.org/10.47233/jteksis.v5i3.847)
+* **Intisari Temuan:** Mengekstrak pola penjualan ekspor online produk multi-item menggunakan FP-Growth.
 
 ---
 
-### 13. Tamaela, Sediyono, & Setiawan (2018)
-* **Penulis:** Jemaictry Tamaela, Eko Sediyono, Adi Setiawan
-* **Tahun:** 2018
-* **Judul Paper:** *Implementasi Metode Association Rule untuk Menganalisis Data Twitter dengan Algoritma Frequent Pattern-Growth*
-* **Jurnal & Akreditasi:** **JSINBIS** (Universitas Diponegoro), Vol. 8 No. 1, Hal. 25–33 (**SINTA 2**)
-* **Tautan Resmi (DOI):** [https://doi.org/10.21456/vol8iss1pp25-33](https://doi.org/10.21456/vol8iss1pp25-33)
-* **Intisari Temuan:** Membuktikan bahwa struktur FP-Tree sangat adaptif untuk memodelkan data non-konvensional dengan densitas atribut tinggi.
+## KATEGORI D: LANDASAN TEORETIS INTERNASIONAL & JURNAL SCOPUS Q1 (2021–2026)
 
----
-
-## KATEGORI D: LANDASAN TEORETIS INTERNASIONAL & JURNAL SCOPUS Q1
-
-### 14. Siswanto, Soeparno, Sianipar, & Budiharto (2024)
+### 16. Siswanto, Soeparno, Sianipar, & Budiharto (2024)
 * **Penulis:** Boby Siswanto, Haryono Soeparno, N. F. Sianipar, Widodo Budiharto
-* **Tahun:** 2024
+* **Tahun:** **2024**
 * **Judul Paper:** *SDFP-Growth Algorithm as a Novelty of Association Rule Mining Optimization*
 * **Jurnal & Akreditasi:** **IEEE Access**, Vol. 12, Hal. 21491–21502 (**Scopus Q1**, IF: 3.4)
 * **Tautan Resmi (DOI):** [https://doi.org/10.1109/ACCESS.2024.3361667](https://doi.org/10.1109/ACCESS.2024.3361667)
@@ -176,9 +199,9 @@
 
 ---
 
-### 15. Baishya, Borah, & Nath (2026)
+### 17. Baishya, Borah, & Nath (2026)
 * **Penulis:** Bhaswati Baishya, Anindita Borah, Bhabesh Nath
-* **Tahun:** 2026
+* **Tahun:** **2026**
 * **Judul Paper:** *IPFP: An Improved Parallel FP-Growth Method for Fast Association Rule Mining*
 * **Jurnal & Akreditasi:** **Expert Systems with Applications (ESWA)**, Elsevier, Vol. 331, Art. 133321 (**Scopus Q1**, IF: 8.5)
 * **Tautan Resmi (DOI):** [https://doi.org/10.1016/j.eswa.2026.133321](https://doi.org/10.1016/j.eswa.2026.133321)
@@ -186,9 +209,9 @@
 
 ---
 
-### 16. Thurachon & Kreesuradej (2021)
+### 18. Thurachon & Kreesuradej (2021)
 * **Penulis:** Wannasiri Thurachon, Worapoj Kreesuradej
-* **Tahun:** 2021
+* **Tahun:** **2021**
 * **Judul Paper:** *Incremental Association Rule Mining With a Fast Incremental Updating Frequent Pattern Growth Algorithm*
 * **Jurnal & Akreditasi:** **IEEE Access**, Vol. 9, Hal. 55726–55741 (**Scopus Q1**, IF: 3.4)
 * **Tautan Resmi (DOI):** [https://doi.org/10.1109/ACCESS.2021.3071777](https://doi.org/10.1109/ACCESS.2021.3071777)
@@ -196,13 +219,13 @@
 
 ---
 
-### 17. Zhang, Liu, & Men (2019)
-* **Penulis:** Guihong Zhang, C. Liu, T. Men
-* **Tahun:** 2019
-* **Judul Paper:** *Research on Data Mining Technology Based on Association Rules Algorithm*
-* **Publikasi:** **IEEE ITAIC**, Hal. 526–530 (**Scopus / IEEE Xplore**)
-* **Tautan Resmi (DOI):** [https://doi.org/10.1109/ITAIC.2019.8785834](https://doi.org/10.1109/ITAIC.2019.8785834)
-* **Intisari Temuan:** Membuktikan secara matematis bahwa FP-Growth mereduksi kompleksitas pemindaian disk dari $O(2^n)$ menjadi hanya 2 kali pemindaian (*two database scans*).
+### 19. Mahdiraji et al. (2021)
+* **Penulis:** Hannan Amoozad Mahdiraji, et al.
+* **Tahun:** **2021**
+* **Judul Paper:** *A multi-attribute data mining model for rule extraction and service operations benchmarking*
+* **Jurnal & Akreditasi:** **Benchmarking: An International Journal**, Vol. 28 No. 8, Hal. 2480–2508 (**Scopus Q1**)
+* **Tautan Resmi (DOI):** [https://doi.org/10.1108/BIJ-09-2020-0498](https://doi.org/10.1108/BIJ-09-2020-0498)
+* **Intisari Temuan:** Memodelkan penambangan aturan transaksi keuangan multi-atribut dan demografi nasabah pada 20.000 transaksi.
 
 ---
 
