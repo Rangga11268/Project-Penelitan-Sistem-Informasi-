@@ -1,0 +1,71 @@
+TY  - BOOK
+T1  - Data Mining: Concepts and Techniques
+AU  - Han, Jiawei
+AU  - Pei, Jian
+AU  - Tong, Hanghang
+ET  - 4th
+PB  - Morgan Kaufmann / Elsevier
+CY  - Waltham, MA, USA
+PY  - 2022
+SN  - 978-0-12-811760-6
+UR  - https://www.sciencedirect.com/book/9780128117606/data-mining-concepts-and-techniques
+AB  - Buku teks standar dunia mengenai konsep Data Mining, Frequent Pattern Mining, struktur data FP-Tree, dan algoritma penambangan aturan asosiasi tanpa candidate generation.
+ER  - 
+
+TY  - BOOK
+T1  - Introduction to Data Mining
+AU  - Tan, Pang-Ning
+AU  - Steinbach, Michael
+AU  - Karpatne, Anuj
+AU  - Kumar, Vipin
+ET  - 2nd
+PB  - Pearson Education
+CY  - New York, NY, USA
+PY  - 2018
+SN  - 978-0-13-312890-1
+UR  - https://www.pearson.com/en-us/subject-catalog/p/introduction-to-data-mining/P200000003300
+AB  - Landasan teoretis fundamental untuk evaluasi aturan asosiasi menggunakan metrik Support, Confidence, Lift Ratio, serta konsep Multi-Attribute Association Rules.
+ER  - 
+
+TY  - BOOK
+T1  - Data Mining and Machine Learning: Fundamental Concepts and Algorithms
+AU  - Zaki, Mohammed J.
+AU  - Meira, Wagner
+ET  - 2nd
+PB  - Cambridge University Press
+CY  - Cambridge, UK
+PY  - 2020
+SN  - 978-1-108-47398-9
+DO  - 10.1017/9781108564175
+UR  - https://doi.org/10.1017/9781108564175
+AB  - Pembahasan mendalam mengenai algoritma penambangan pola frekuensi tinggi, arsitektur Header Table, pembentukan Conditional Pattern Base, dan FP-Tree mining.
+ER  - 
+
+TY  - BOOK
+T1  - Analytics, Data Science, & Artificial Intelligence: Systems for Decision Support
+AU  - Sharda, Ramesh
+AU  - Delen, Dursun
+AU  - Turban, Efraim
+ET  - 11th
+PB  - Pearson Education
+CY  - Boston, MA, USA
+PY  - 2020
+SN  - 978-0-13-519201-6
+UR  - https://www.pearson.com/en-us/subject-catalog/p/analytics-data-science-artificial-intelligence-systems-for-decision-support/P200000003502
+AB  - Integrasi analitik deskriptif dan kaidah asosiasi data mining ke dalam sistem pendukung keputusan manajerial (DSS) untuk strategi bisnis pembiayaan dan promosi.
+ER  - 
+
+TY  - BOOK
+T1  - Data Mining: Practical Machine Learning Tools and Techniques
+AU  - Witten, Ian H.
+AU  - Frank, Eibe
+AU  - Hall, Mark A.
+AU  - Pal, Christopher J.
+ET  - 4th
+PB  - Morgan Kaufmann / Elsevier
+CY  - Cambridge, MA, USA
+PY  - 2017
+SN  - 978-0-12-804291-5
+UR  - https://www.sciencedirect.com/book/9780128042915/data-mining
+AB  - Panduan praktis tahapan data preprocessing, transformasi data biner (one-hot encoding), dan validasi statistik model penambangan data.
+ER  - 
