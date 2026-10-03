@@ -1,64 +1,153 @@
 TY  - JOUR
-T1  - Data Mining Menentukan Minat Konsumen Memilih Sepeda Motor Idaman Dengan Algoritma C4.5
-AU  - Widodo, Tio
-AU  - Setiawan, Dedi
-AU  - Syahputri, Astri
-JO  - Jurnal Sistem Informasi Triguna Dharma (JURSI TGD)
-VL  - 1
-IS  - 6
-SP  - 883
-EP  - 890
-PY  - 2022
-DO  - 10.53513/jursi.v1i6.7262
-UR  - https://ojs.trigunadharma.ac.id/index.php/jursi/article/view/7262
-AB  - PT. Alfa Scorpii merupakan perusahaan pendistribusian kendaraan roda 2 bermerk Yamaha. Penelitian ini bertujuan menerapkan data mining algoritma C4.5 untuk menentukan jumlah minat konsumen dalam memilih tipe sepeda motor idaman.
+T1  - Evaluasi Kinerja Algoritma Apriori dan FP-Growth untuk Association Rule Mining pada Data Transaksi Ritel
+AU  - Soewignyo, Fanny
+AU  - Soewignyo, Tonny Irianto
+AU  - Mokodaser, Wilsen Grivin
+AU  - Silitonga, Argha Orion
+JO  - Techno.Com
+VL  - 24
+IS  - 4
+SP  - 891
+EP  - 902
+PY  - 2025
+DO  - 10.62411/tc.v24i4.14952
+UR  - https://doi.org/10.62411/tc.v24i4.14952
+AB  - Penelitian ini memberikan gambaran empiris mengenai efektivitas algoritma Apriori dan FP-Growth pada data transaksi ritel. Hasil penelitian menunjukkan kedua algoritma menghasilkan 63 aturan yang sama dengan lift tertinggi 3.29, namun FP-Growth lebih stabil dalam menangani pertumbuhan dimensi atribut.
 ER  - 
 
 TY  - JOUR
-T1  - Penerapan Data Mining Untuk Analisa Pola Pembelian Produk Menggunakan Algoritma Frequent Pattern – Growth
-AU  - Soleh, Paisal
-AU  - Tholib, Abu
-AU  - Hidayat, M. Noer Fadli
-JO  - Jurnal Rekayasa
-VL  - 14
-IS  - 3
-SP  - 456
-EP  - 460
-PY  - 2022
-DO  - 10.21107/rekayasa.v14i3.11365
-UR  - https://journal.trunojoyo.ac.id/rekayasa/article/view/11365
-AB  - Penerapan algoritma FP-Growth dalam menggali aturan asosiasi transaksi penjualan suku cadang kendaraan guna menemukan kombinasi item produk yang paling sering dibeli secara bersamaan.
+T1  - Perbandingan Apriori dan FP-Growth dalam Association Rule Pola Pembelian Sparepart Preventive Maintenance
+AU  - Anita
+AU  - Wibowo, Arief
+JO  - Jurnal Algoritma
+VL  - 23
+IS  - 1
+SP  - 115
+EP  - 126
+PY  - 2026
+DO  - 10.33364/algoritma/v.23-1.3427
+UR  - https://doi.org/10.33364/algoritma/v.23-1.3427
+AB  - Pengelolaan persediaan sparepart merupakan aspek penting dalam preventive maintenance. Hasil penelitian menunjukkan FP-Growth memiliki efisiensi komputasi jauh lebih tinggi dibanding Apriori pada transaksi skala besar.
 ER  - 
 
 TY  - JOUR
-T1  - Analisis Data Transaksi untuk Penempatan Produk Prioritas Oli Motor Menggunakan Algoritma Apriori
-AU  - Subakti, Gigih Prima
-AU  - Nataliani, Yessica
-JO  - INOVTEK Polbeng - Seri Informatika
+T1  - Implementasi Association Rule Mining Menggunakan Algoritma Apriori Untuk Rekomendasi Cross-Selling Produk Ritel
+AU  - Septianingsih
+AU  - Santoso, A. B.
+JO  - Jurnal Algoritma
+VL  - 23
+IS  - 1
+SP  - 45
+EP  - 56
+PY  - 2026
+DO  - 10.33364/algoritma/v.23-1.3415
+UR  - https://doi.org/10.33364/algoritma/v.23-1.3415
+AB  - Menganalisis 3.898 transaksi ritel untuk rekomendasi cross-selling dengan Min Support 0.01 dan Min Confidence 0.40 serta validasi statistik Chi-Square.
+ER  - 
+
+TY  - JOUR
+T1  - Inventory Optimization through FP-Growth-Based Association Rule Mining of Material Stock Usage Patterns
+AU  - Ubaidillah, Ubaidillah
+AU  - Sumiati, Sumiati
+JO  - Building of Informatics, Technology and Science (BITS)
 VL  - 7
-IS  - 2
-SP  - 248
-EP  - 258
-PY  - 2022
-DO  - 10.35314/isi.v7i2.2684
-UR  - http://ejournal.polbeng.ac.id/index.php/ISI/article/view/2684
-AB  - Analisis transaksi penjualan dan servis berkala oli motor menggunakan algoritma Apriori untuk penataan layout tata letak produk prioritas di bengkel.
+IS  - 1
+SP  - 201
+EP  - 212
+PY  - 2025
+DO  - 10.47065/bits.v7i1.7306
+UR  - https://doi.org/10.47065/bits.v7i1.7306
+AB  - Penelitian ini membuktikan implementasi aturan asosiasi berbasis FP-Growth mampu mengoptimalkan perencanaan persediaan dan mencegah terjadinya ketidakseimbangan stok overstock dan stockout.
 ER  - 
 
 TY  - JOUR
-T1  - Penerapan Metode Algoritma Apriori Dalam Memprediksi Penjualan Sparepart Motor (PT. Lautan Teduh Interniaga Dealer Yamaha Kotabumi)
-AU  - Rahmatullah, Sidik
-AU  - Mintoro, Sigit
-AU  - Permatasari, Karmila
-JO  - Jurnal Informasi dan Komputer (JIK)
-VL  - 10
-IS  - 2
-SP  - 155
-EP  - 163
+T1  - Implementasi Association Rule Mining Dalam Menganalisis Data Penjualan Sepatu Menggunakan Algoritma FP-Growth
+AU  - Muliawati, Zalfa Salsabila
+AU  - Witanti, Wina
+AU  - Ramadhan, Edvin
+JO  - Jurnal Informatika Teknologi dan Sains (JINTEKS)
+VL  - 6
+IS  - 3
+SP  - 385
+EP  - 393
+PY  - 2024
+DO  - 10.51401/jinteks.v6i3.4335
+UR  - https://doi.org/10.51401/jinteks.v6i3.4335
+AB  - Association Rule dan FP-Growth digunakan untuk mengidentifikasi hubungan antar variabel kategori produk dan varian atribut guna menemukan pola preferensi konsumen.
+ER  - 
+
+TY  - JOUR
+T1  - Penerapan Metode Association Rule dengan Algoritma FP-Growth dan Prediksi dengan Artificial Neural Network untuk Persediaan Sparepart
+AU  - Gaol, Gebryana Hotmida Lamtiar Lumban
+AU  - Yustanti, Wiyli
+JO  - Journal of Emerging Information System and Business Intelligence (JEISBI)
+VL  - 3
+IS  - 4
+SP  - 28
+EP  - 37
 PY  - 2022
-DO  - 10.35959/jik.v10i2.393
-UR  - http://journal.dcckotabumi.ac.id/index.php/jik/article/view/393
-AB  - Penerapan algoritma Apriori pada data transaksi penjualan suku cadang di dealer resmi Yamaha PT. Lautan Teduh Interniaga Kotabumi.
+UR  - https://ejournal.unesa.ac.id/index.php/JEISBI/article/view/47385
+AB  - Pemanfaatan data transaksi penjualan sparepart Auto2000 Wiyung menggunakan algoritma FP-Growth untuk menemukan pola asosiasi persediaan suku cadang.
+ER  - 
+
+TY  - JOUR
+T1  - Penerapan Data Mining Association Rule Menggunakan Algoritma FP-Growth Untuk Persediaan Sparepart Pada Bengkel
+AU  - Guntoro
+AU  - Hutabarat, Charles Parmonangan
+JO  - Jurnal Komtika (Komputasi dan Informatika)
+VL  - 5
+IS  - 2
+SP  - 112
+EP  - 121
+PY  - 2021
+DO  - 10.31603/komtika.v5i2.6251
+UR  - https://doi.org/10.31603/komtika.v5i2.6251
+AB  - Algoritma FP-Growth digunakan untuk menentukan stok persediaan suku cadang otomotif fast-moving seperti oli, busi, dan kampas rem pada bengkel.
+ER  - 
+
+TY  - JOUR
+T1  - Product Sales Promotion Recommendation Strategy with Purchase Pattern Analysis FP-Growth
+AU  - Ismarmiaty
+AU  - Rismayati
+JO  - SinkrOn
+VL  - 8
+IS  - 1
+SP  - 412
+EP  - 421
+PY  - 2023
+DO  - 10.33395/sinkron.v8i1.11925
+UR  - https://doi.org/10.33395/sinkron.v8i1.11925
+AB  - Pembentukan association rules menggunakan algoritma FP-Growth untuk merumuskan strategi promosi dan rekomendasi penjualan suku cadang motor.
+ER  - 
+
+TY  - JOUR
+T1  - SDFP-Growth Algorithm as a Novelty of Association Rule Mining Optimization
+AU  - Siswanto, Boby
+AU  - Soeparno, Haryono
+AU  - Sianipar, N. F.
+AU  - Budiharto, Widodo
+JO  - IEEE Access
+VL  - 12
+SP  - 21491
+EP  - 21502
+PY  - 2024
+DO  - 10.1109/ACCESS.2024.3361667
+UR  - https://doi.org/10.1109/ACCESS.2024.3361667
+AB  - Proposes a novelty in association rule mining optimization using SDFP-Growth that significantly optimizes memory usage and execution time on multi-attribute complex datasets.
+ER  - 
+
+TY  - JOUR
+T1  - IPFP: An Improved Parallel FP-Growth Method for Fast Association Rule Mining
+AU  - Baishya, Bhaswati
+AU  - Borah, Anindita
+AU  - Nath, Bhabesh
+JO  - Expert Systems with Applications
+VL  - 331
+SP  - 133321
+PY  - 2026
+DO  - 10.1016/j.eswa.2026.133321
+UR  - https://doi.org/10.1016/j.eswa.2026.133321
+AB  - Introduces an improved parallel FP-Growth method for mining association rules efficiently in large transactional enterprise databases.
 ER  - 
 
 TY  - JOUR
@@ -72,25 +161,40 @@ SP  - 468
 EP  - 479
 PY  - 2025
 DO  - 10.33364/algoritma/v.22-1.2303
-UR  - https://jurnal.itg.ac.id/index.php/algoritma/article/view/2303
+UR  - https://doi.org/10.33364/algoritma/v.22-1.2303
 AB  - Studi komparatif performa komputasi dan akurasi antara algoritma Apriori dan FP-Growth berbasis framework CRISP-DM pada transaksi toko ritel.
 ER  - 
 
 TY  - JOUR
-T1  - Perbandingan Algoritma Apriori dan Algoritma FP-Growth dalam Menentukan Pola Penjualan Pupuk
-AU  - Rachmawati, Dhea
-AU  - Cahyana, Yana
-AU  - Awal, Elsa Elvira
-AU  - Faisal, Sutan
-JO  - Jurnal RESISTOR (Rekayasa Sistem Komputer)
-VL  - 7
-IS  - 1
-SP  - 21
-EP  - 31
-PY  - 2024
-DO  - 10.31598/jurnalresistor.v7i1.1527
-UR  - https://ejournal.stmik-sumedang.ac.id/index.php/resistor/article/view/1527
-AB  - Komparasi waktu eksekusi dan jumlah rule asosiasi antara Apriori dan FP-Growth pada data distribusi penjualan pupuk.
+T1  - Data Mining Menentukan Minat Konsumen Memilih Sepeda Motor Idaman Dengan Algoritma C4.5
+AU  - Widodo, Tio
+AU  - Setiawan, Dedi
+AU  - Syahputri, Astri
+JO  - Jurnal Sistem Informasi Triguna Dharma (JURSI TGD)
+VL  - 1
+IS  - 6
+SP  - 883
+EP  - 890
+PY  - 2022
+DO  - 10.53513/jursi.v1i6.7262
+UR  - https://ojs.trigunadharma.ac.id/index.php/jursi/article/view/7262
+AB  - PT. Alfa Scorpii merupakan perusahaan pendistribusian kendaraan roda 2 bermerk Yamaha. Penelitian ini menerapkan algoritma klasifikasi C4.5 untuk minat konsumen.
+ER  - 
+
+TY  - JOUR
+T1  - Penerapan Data Mining Untuk Analisa Pola Pembelian Produk Menggunakan Algoritma Frequent Pattern - Growth
+AU  - Soleh, Paisal
+AU  - Tholib, Abu
+AU  - Hidayat, M. Noer Fadli
+JO  - Jurnal Rekayasa
+VL  - 14
+IS  - 3
+SP  - 456
+EP  - 460
+PY  - 2022
+DO  - 10.21107/rekayasa.v14i3.11365
+UR  - https://doi.org/10.21107/rekayasa.v14i3.11365
+AB  - Penerapan algoritma FP-Growth dalam menggali aturan asosiasi transaksi penjualan suku cadang kendaraan guna menemukan kombinasi produk sering dibeli bersamaan.
 ER  - 
 
 TY  - JOUR
@@ -105,70 +209,23 @@ SP  - 618
 EP  - 627
 PY  - 2023
 DO  - 10.29207/resti.v7i3.4844
-UR  - https://jurnal.iaii.or.id/index.php/RESTI/article/view/4844
-AB  - Association Rule Mining untuk menganalisis 4.417 transaksi supermarket dan pembentukan strategi penataan produk cross-selling.
+UR  - https://doi.org/10.29207/resti.v7i3.4844
+AB  - Penerapan metode penambangan aturan asosiasi pada 4.417 transaksi supermarket untuk penataan barang dan strategi promosi.
 ER  - 
 
 TY  - JOUR
-T1  - Metode FP-Growth untuk Mengoptimalkan Rekomendasi Penjualan Makanan dan Minuman di Piknik Café
-AU  - Muharam, Arbi Adi
-AU  - Suarna, Nana
-AU  - Ali, Irfan
-AU  - Effendy, Dendy Indria
-JO  - Jurnal Informatika dan Teknik Elektro Terapan (JITET)
-VL  - 13
-IS  - 1
-SP  - 401
-EP  - 410
-PY  - 2025
-DO  - 10.23960/jitet.v13i1.5935
-UR  - https://jurnal.fmipa.unila.ac.id/jitet/article/view/5935
-AB  - Ekstraksi frequent itemset menggunakan algoritma FP-Growth untuk sistem rekomendasi menu restoran berbasis Point of Sale.
-ER  - 
-
-TY  - JOUR
-T1  - Penerapan Multi-Dimensional Association Rule Mining untuk Analisis Pola Transaksi Bisnis Ritel
-AU  - Ramadhan, Arief
-AU  - Sensuse, Dana Indra
-JO  - Jurnal Sistem Informasi Bisnis (JSINBIS)
-VL  - 10
-IS  - 2
-SP  - 135
-EP  - 144
-PY  - 2020
-DO  - 10.21456/vol10iss2pp135-144
-UR  - https://ejournal.undip.ac.id/index.php/jsinbis/article/view/33421
-AB  - Formulasi penambangan kaidah asosiasi multidimensi untuk mengintegrasikan atribut produk dengan dimensi profil dan waktu belanja pada data ritel.
-ER  - 
-
-TY  - JOUR
-T1  - Implementasi Data Mining Menggunakan Algoritma FP-Growth Untuk Menganalisa Transaksi Penjualan Ekspor Online
-AU  - Hidayat, Taufik
-AU  - Rahman, Ahmad Faidlal
-AU  - Bastian, Ade
-JO  - Jurnal Teknologi Dan Sistem Informasi Bisnis (JTEKSIS)
-VL  - 5
-IS  - 3
-SP  - 222
-EP  - 228
-PY  - 2023
-DO  - 10.47233/jteksis.v5i3.847
-UR  - https://jurnal.unidha.ac.id/index.php/jteksis/article/view/847
-AB  - Penerapan algoritma FP-Growth dengan siklus CRISP-DM pada data transaksi ekspor online guna optimalisasi katalog dan inventaris.
-ER  - 
-
-TY  - JOUR
-T1  - Penentuan Barang Terpopuler Menggunakan Algoritma Frequent Pattern Growth (FP-Growth) Pada Data Transaksi Penjualan Odeliz.ID
-AU  - Pratama, Wahyu
-AU  - Pamungkas, Danar Putra
-AU  - Indriati, Rini
-JO  - Generation Journal
+T1  - Implementasi Data Mining Association Rules Menggunakan Algoritma FP-Growth untuk Data Penjualan Keramik
+AU  - Almahsa, Muhammad Isra
+AU  - Nazir, Alwis
+AU  - Afriyanti, Iis
+AU  - Budianita, Elvia
+JO  - Jurnal Informatika Universitas Pamulang
 VL  - 8
-IS  - 2
-SP  - 98
-EP  - 107
-PY  - 2024
-DO  - 10.29407/gj.v8i2.22994
-UR  - https://ojs.unik-kediri.ac.id/index.php/gj/article/view/22994
-AB  - Penerapan FP-Growth untuk penentuan produk terpopuler dan analisis keranjang belanja pada toko online fashion.
+IS  - 3
+SP  - 513
+EP  - 520
+PY  - 2023
+DO  - 10.32493/informatika.v8i3.34442
+UR  - https://doi.org/10.32493/informatika.v8i3.34442
+AB  - Menambang data transaksi penjualan produk keramik multi-atribut menggunakan FP-Growth dengan nilai Lift Ratio mencapai 2.45.
 ER  - 
