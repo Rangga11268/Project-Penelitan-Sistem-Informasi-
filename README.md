@@ -115,6 +115,13 @@ d:\MATERI SLIDE\MATERI SMT 5\TUGAS SMT 5\Penelitian SI/
 │       ├── romi-dm-apr2020.pdf & .pptx
 │       └── romi-dm-mar2019.pptx
 │
+├── 📁 notebooks/                        # Jupyter Notebook Analisis FP-Growth Riil (Bab IV)
+│   ├── 01_ANALISIS_FP_GROWTH_PT_SSM_MOTOR.ipynb               # Komputasi End-to-End CRISP-DM
+│   ├── top_15_association_rules_ssm_motor.csv                 # 15 Kaidah Asosiasi Terbaik (Lift > 1.0)
+│   ├── visualisasi_4_1_univariat.png                          # Gambar 4.1 & 4.2 Univariat 4-in-1
+│   ├── visualisasi_4_4_scatter_rules.png                      # Gambar 4.4 Scatter Plot Kaidah Asosiasi
+│   └── README.md                                              # Petunjuk Menjalankan Notebook
+│
 ├── 📁 src/                              # Wadah Script Machine Learning & Data Mining (Python)
 │   └── .gitkeep
 │

@@ -86,3 +86,19 @@ Desktop.ini
 ~$*.docx
 ~$*.pptx
 ~$*.pdf
+
+# Temporary test and scratch files
+test_*.docx
+temp_*.*
+boost_temp.*
+pdf_bab3_extracted.txt
+
+# Media & Audio recordings (preserved locally on disk, excluded from git repo)
+*.mp3
+*.wav
+*.ogg
+*.m4a
+*.flac
+
+# Scratch workspace folder
+scratch/

@@ -1,0 +1,16 @@
+antecedents,consequents,support,confidence,lift
+"Tenor=Non-Kredit, Leasing=Cash, Warna=HIJAU PERAK",Model=GEAR 125,2.35%,100.0%,9.578
+"Tenor=Non-Kredit, Warna=HIJAU PERAK","Leasing=Cash, Model=GEAR 125",2.35%,100.0%,9.578
+"Leasing=Cash, Warna=HIJAU PERAK","Tenor=Non-Kredit, Model=GEAR 125",2.35%,100.0%,9.578
+Warna=HIJAU PERAK,"Tenor=Non-Kredit, Leasing=Cash, Model=GEAR 125",2.35%,100.0%,9.578
+"Leasing=Cash, Warna=HIJAU PERAK",Model=GEAR 125,2.35%,100.0%,9.578
+Warna=HIJAU PERAK,Model=GEAR 125,2.35%,100.0%,9.578
+Warna=HIJAU PERAK,"Tenor=Non-Kredit, Model=GEAR 125",2.35%,100.0%,9.578
+"Tenor=Non-Kredit, Warna=HIJAU PERAK",Model=GEAR 125,2.35%,100.0%,9.578
+Warna=HIJAU PERAK,"Leasing=Cash, Model=GEAR 125",2.35%,100.0%,9.578
+Warna=UNGU MUDA,Model=GRAND FILANO HYBRID NEO,2.76%,62.32%,9.194
+Warna=PERAK HIJAU,"Tenor=Non-Kredit, Leasing=Cash, Model=MIO M3 CW",3.5%,100.0%,7.189
+"Warna=PERAK HIJAU, Leasing=Cash","Tenor=Non-Kredit, Model=MIO M3 CW",3.5%,100.0%,7.189
+"Tenor=Non-Kredit, Warna=PERAK HIJAU","Leasing=Cash, Model=MIO M3 CW",3.5%,100.0%,7.189
+Warna=PERAK HIJAU,"Tenor=Non-Kredit, Model=MIO M3 CW",3.5%,100.0%,7.189
+Warna=PERAK HIJAU,"Leasing=Cash, Model=MIO M3 CW",3.5%,100.0%,7.189

@@ -1,0 +1,264 @@
+TY  - BOOK
+T1  - Data Mining: Concepts and Techniques
+AU  - Han, Jiawei
+AU  - Pei, Jian
+AU  - Tong, Hanghang
+ET  - 4th
+PB  - Morgan Kaufmann / Elsevier
+CY  - Waltham, MA, USA
+PY  - 2022
+SN  - 978-0-12-811760-6
+UR  - https://www.sciencedirect.com/book/9780128117606/data-mining-concepts-and-techniques
+AB  - Buku teks standar dunia mengenai Frequent Pattern Mining, arsitektur pohon FP-Tree 2-pass scan, dan algoritma penambangan kaidah asosiasi tanpa candidate generation.
+ER  - 
+
+TY  - BOOK
+T1  - Introduction to Data Mining
+AU  - Tan, Pang-Ning
+AU  - Steinbach, Michael
+AU  - Karpatne, Anuj
+AU  - Kumar, Vipin
+ET  - 2nd
+PB  - Pearson Education
+CY  - New York, NY, USA
+PY  - 2018
+SN  - 978-0-13-312890-1
+UR  - https://www.pearson.com/en-us/subject-catalog/p/introduction-to-data-mining/P200000003300
+AB  - Landasan teoretis fundamental untuk evaluasi aturan asosiasi menggunakan metrik Support, Confidence, Lift Ratio, serta konsep Multi-Attribute Association Rules.
+ER  - 
+
+TY  - BOOK
+T1  - Analytics, Data Science, & Artificial Intelligence: Systems for Decision Support
+AU  - Sharda, Ramesh
+AU  - Delen, Dursun
+AU  - Turban, Efraim
+ET  - 11th
+PB  - Pearson Education
+CY  - Boston, MA, USA
+PY  - 2020
+SN  - 978-0-13-519201-6
+UR  - https://www.pearson.com/en-us/subject-catalog/p/analytics-data-science-artificial-intelligence-systems-for-decision-support/P200000003502
+AB  - Integrasi analitik asosiasi data mining ke dalam sistem pendukung keputusan manajerial (DSS) untuk barang bernilai tinggi (high-involvement durable goods).
+ER  - 
+
+TY  - BOOK
+T1  - Data Mining and Machine Learning: Fundamental Concepts and Algorithms
+AU  - Zaki, Mohammed J.
+AU  - Meira, Wagner
+ET  - 2nd
+PB  - Cambridge University Press
+CY  - Cambridge, UK
+PY  - 2020
+SN  - 978-1-108-47398-9
+DO  - 10.1017/9781108564175
+UR  - https://doi.org/10.1017/9781108564175
+AB  - Pembahasan mendalam mengenai algoritma penambangan pola frekuensi tinggi, arsitektur Header Table, pembentukan Conditional Pattern Base, dan FP-Tree mining.
+ER  - 
+
+TY  - BOOK
+T1  - Data Mining: Practical Machine Learning Tools and Techniques
+AU  - Witten, Ian H.
+AU  - Frank, Eibe
+AU  - Hall, Mark A.
+AU  - Pal, Christopher J.
+ET  - 4th
+PB  - Morgan Kaufmann / Elsevier
+CY  - Cambridge, MA, USA
+PY  - 2017
+SN  - 978-0-12-804291-5
+UR  - https://www.sciencedirect.com/book/9780128042915/data-mining
+AB  - Panduan praktis tahapan data preprocessing, transformasi data biner (one-hot encoding), dan validasi statistik model penambangan data.
+ER  - 
+
+TY  - BOOK
+T1  - Metode Penelitian Kuantitatif, Kualitatif, dan R&D
+AU  - Sugiyono
+ET  - 2nd
+PB  - Alfabeta
+CY  - Bandung, Indonesia
+PY  - 2019
+SN  - 978-602-289-533-6
+AB  - Landasan metodologi penelitian ilmiah kuantitatif, definisi populasi, teknik sampling, dan operasionalisasi variabel penelitian di Indonesia.
+ER  - 
+
+TY  - BOOK
+T1  - Research Methods for Business Students
+AU  - Saunders, Mark
+AU  - Lewis, Philip
+AU  - Thornhill, Adrian
+ET  - 8th
+PB  - Pearson Education
+CY  - Harlow, UK
+PY  - 2019
+SN  - 978-1-292-20878-7
+UR  - https://www.pearson.com/en-gb/subject-catalog/p/research-methods-for-business-students/P200000005703
+AB  - Teori perumusan desain penelitian bisnis, pendekatan induktif-deduktif, pengumpulan data sekunder, dan teknik analisis kuantitatif organisasi.
+ER  - 
+
+TY  - JOUR
+T1  - Penerapan Data Mining Untuk Analisa Pola Pembelian Produk Menggunakan Algoritma Frequent Pattern – Growth
+AU  - Soleh, Paisal
+AU  - Tholib, Abu
+AU  - Hidayat, M. Noer Fadli
+JO  - Rekayasa: Jurnal Ilmu Pengetahuan dan Teknologi
+VL  - 14
+IS  - 3
+SP  - 456
+EP  - 460
+PY  - 2022
+DO  - 10.21107/rekayasa.v14i3.11365
+UR  - https://doi.org/10.21107/rekayasa.v14i3.11365
+AB  - Implementasi FP-Growth pada transaksi suku cadang bengkel Avindo Motor yang mengidentifikasi kombinasi oli mesin dan busi pada barang berbiaya rendah (low-involvement goods).
+ER  - 
+
+TY  - JOUR
+T1  - Prediksi Persediaan Sepeda Motor Pada Dealer Yamaha Jaya Baru Motor Mengunakan Metode Frequent Pattern (FP-Growth)
+AU  - Salu, Nerwan
+AU  - Michael, Aryo
+AU  - Padang, Samuel Yakobus
+AU  - Adda, Muhammad Sofwan
+JO  - INFINITY: UKI Toraja Journal of Information Technology
+VL  - 2
+IS  - 1
+SP  - 1
+EP  - 10
+PY  - 2022
+UR  - https://garuda.kemdiktisaintek.go.id/documents/detail/3370571
+AB  - Analisis pola transaksi penjualan sepeda motor pada dealer Yamaha yang memetakan preferensi model terlaris menggunakan data produk satu dimensi (single-attribute) dengan 15 transaksi dan 17 aturan valid.
+ER  - 
+
+TY  - JOUR
+T1  - Penerapan Metode Association Rule dengan Algoritma FP-Growth dan Prediksi dengan Artificial Neural Network untuk Persediaan Sparepart
+AU  - Lumban Gaol, Gebryana Hotmida Lamtiar
+AU  - Yustanti, Wiyli
+JO  - Journal of Emerging Information Systems and Business Intelligence (JEISBI)
+VL  - 3
+IS  - 4
+SP  - 120
+EP  - 128
+PY  - 2022
+DO  - 10.26740/jeisbi.v3i4.49352
+UR  - https://doi.org/10.26740/jeisbi.v3i4.49352
+AB  - Penerapan algoritma FP-Growth pada transaksi sparepart Auto2000 yang menghasilkan 4 aturan dengan confidence di atas 70 persen dan dilanjutkan dengan prediksi ANN Backpropagation.
+ER  - 
+
+TY  - JOUR
+T1  - Penerapan Association Rule Menggunakan Algoritma Fp-Growth Pada Toko Sparepart Motor Cahaya Global Berjaya Blitar
+AU  - Wulandari, Dimas Cici
+AU  - Budiman, Saiful Nur
+AU  - Puspitasari, Wahyu Dwi
+JO  - Jurnal Ilmiah Wahana Pendidikan
+VL  - 11
+IS  - 5.A
+SP  - 79
+EP  - 90
+PY  - 2025
+SN  - 2622-8327
+UR  - https://jurnal.peneliti.net/index.php/JIWP/article/view/11892
+AB  - Ekstraksi kaidah asosiasi FP-Growth pada transaksi sparepart motor untuk menemukan kombinasi 3 item barang (OTZ, BD, FIP) guna optimasi restok persediaan barang.
+ER  - 
+
+TY  - JOUR
+T1  - Data Mining Menentukan Minat Konsumen Memilih Sepeda Motor Idaman Dengan Algoritma C4.5
+AU  - Widodo, Tio
+AU  - Setiawan, Dedi
+AU  - Syahputri, Astri
+JO  - Jurnal Sistem Informasi Triguna Dharma (JURSI TGD)
+VL  - 1
+IS  - 6
+SP  - 935
+EP  - 944
+PY  - 2022
+DO  - 10.53513/jursi.v1i6.7262
+UR  - https://garuda.kemdiktisaintek.go.id/documents/detail/3087354
+AB  - Pemodelan preferensi pemilihan motor menggunakan algoritma klasifikasi C4.5 pada dealer motor yang membuktikan bahwa riset sebelumnya masih memproses variabel secara defensif dan terpisah dari produk.
+ER  - 
+
+TY  - JOUR
+T1  - Implementasi Algoritma FP-Growth dalam Penentuan Pola Transaksi Penjualan pada Ritel Skala Besar
+AU  - Saptadi, A. H.
+AU  - Sari, D. P.
+AU  - Ramadhani, F.
+JO  - Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi)
+VL  - 7
+IS  - 3
+SP  - 540
+EP  - 547
+PY  - 2023
+DO  - 10.29207/resti.v7i3.4844
+UR  - https://doi.org/10.29207/resti.v7i3.4844
+AB  - Pembuktian efisiensi algoritma FP-Growth berbasis FP-Tree dalam memproses puluhan ribu data transaksi POS secara cepat tanpa ledakan kandidat kombinasi itemset.
+ER  - 
+
+TY  - JOUR
+T1  - Penerapan Multi-Attribute Association Rule Mining Menggunakan FP-Growth untuk Optimasi Persediaan Produk Ritel
+AU  - Ubaidillah, M.
+AU  - Sumiati
+JO  - Jurnal BITS (Building of Informatics, Technology and Science)
+VL  - 7
+IS  - 1
+SP  - 88
+EP  - 96
+PY  - 2025
+DO  - 10.47065/bits.v7i1.7306
+UR  - https://doi.org/10.47065/bits.v7i1.7306
+AB  - Integrasi atribut multi-dimensi dalam algoritma FP-Growth guna meningkatkan akurasi rekomendasi pola penjualan dan optimasi alokasi persediaan barang antarcabang.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluasi Kinerja Algoritma Apriori dan FP-Growth untuk Association Rule Mining pada Data Transaksi Ritel
+AU  - Soewignyo, Fanny
+AU  - Soewignyo, Tonny Irianto
+AU  - Mokodaser, Wilsen Grivin
+AU  - Silitonga, Argha Orion
+JO  - Techno.Com
+VL  - 24
+IS  - 4
+SP  - 1237
+EP  - 1249
+PY  - 2025
+DO  - 10.62411/tc.v24i4.14952
+UR  - https://www.researchgate.net/publication/388276067_Evaluasi_Kinerja_Algoritma_Apriori_dan_FP-Growth_untuk_Association_Rule_Mining_pada_Data_Transaksi_Ritel
+AB  - Komparasi waktu eksekusi dan memori antara Apriori vs FP-Growth pada transaksi POS ritel yang membuktikan FP-Growth unggul pada kombinasi itemset besar.
+ER  - 
+
+TY  - JOUR
+T1  - Perbandingan Apriori dan FP-Growth dalam Association Rule Pola Pembelian Sparepart Preventive Maintenance
+AU  - Anita
+AU  - Wibowo, Arief
+JO  - Jurnal Algoritma
+VL  - 23
+IS  - 1
+SP  - 115
+EP  - 126
+PY  - 2026
+DO  - 10.33364/algoritma/v.23-1.3427
+UR  - https://doi.org/10.33364/algoritma/v.23-1.3427
+AB  - Efisiensi algoritma FP-Growth pada transaksi suku cadang motor untuk penentuan pola preventif maintenance dengan metrik support, confidence, dan lift ratio.
+ER  -
+TY  - BOOK
+T1  - Research Methods for Business: A Skill-Building Approach
+AU  - Sekaran, Uma
+AU  - Bougie, Roger
+ET  - 7th
+PB  - John Wiley & Sons
+CY  - Chichester, West Sussex, UK
+PY  - 2016
+SN  - 978-1-119-16555-2
+UR  - https://www.wiley.com/en-us/Research+Methods+for+Business%3A+A+Skill+Building+Approach%2C+7th+Edition-p-9781119165552
+AB  - Landasan metodologi penelitian bisnis kuantitatif, perancangan kerangka teoretis, teknik penarikan sampel non-probability purposive sampling, serta analisis variabilitas populasi.
+ER  -
+
+TY  - BOOK
+T1  - Business Intelligence, Analytics, and Data Science: A Managerial Perspective
+AU  - Turban, Efraim
+AU  - Sharda, Ramesh
+AU  - Delen, Dursun
+ET  - 4th
+PB  - Pearson Education
+CY  - Boston, MA, USA
+PY  - 2018
+SN  - 978-0-13-463328-2
+UR  - https://www.pearson.com/en-us/subject-catalog/p/business-intelligence-analytics-and-data-science-a-managerial-perspective/P200000003502
+AB  - Konsep fundamental arsitektur Business Intelligence, sistem pendukung keputusan (DSS), dan hierarki piramida Data, Information, Knowledge, and Wisdom (DIKW).
+ER  -
