@@ -1,21 +1,21 @@
 Antecedents (X),Consequents (Y),Support (%),Confidence (%),Lift Ratio,klaster
-Warna=HIJAU PERAK,"Leasing=CASH, Model=GEAR 125",2.35%,100.0%,9.578,Klaster Multi-Atribut Kompleks
 "Leasing=CASH, Warna=HIJAU PERAK",Model=GEAR 125,2.35%,100.0%,9.578,Klaster Multi-Atribut Kompleks
-Warna=HIJAU PERAK,"Tenor=0_BULAN_CASH, Model=GEAR 125",2.35%,100.0%,9.578,Klaster Multi-Atribut Kompleks
+Warna=HIJAU PERAK,"Leasing=CASH, Model=GEAR 125",2.35%,100.0%,9.578,Klaster Multi-Atribut Kompleks
+"Warna=HIJAU PERAK, Tenor=0_BULAN_CASH",Model=GEAR 125,2.35%,100.0%,9.578,Klaster Multi-Atribut Kompleks
 Warna=HIJAU PERAK,Model=GEAR 125,2.35%,100.0%,9.578,Klaster Persediaan & Warna
-Warna=HIJAU PERAK,"Model=GEAR 125, Leasing=CASH, Tenor=0_BULAN_CASH",2.35%,100.0%,9.578,Klaster Multi-Atribut Kompleks
-"Tenor=0_BULAN_CASH, Warna=HIJAU PERAK","Leasing=CASH, Model=GEAR 125",2.35%,100.0%,9.578,Klaster Multi-Atribut Kompleks
+"Warna=HIJAU PERAK, Tenor=0_BULAN_CASH","Leasing=CASH, Model=GEAR 125",2.35%,100.0%,9.578,Klaster Multi-Atribut Kompleks
+Warna=HIJAU PERAK,"Leasing=CASH, Model=GEAR 125, Tenor=0_BULAN_CASH",2.35%,100.0%,9.578,Klaster Multi-Atribut Kompleks
+"Leasing=CASH, Warna=HIJAU PERAK","Model=GEAR 125, Tenor=0_BULAN_CASH",2.35%,100.0%,9.578,Klaster Multi-Atribut Kompleks
 "Leasing=CASH, Warna=HIJAU PERAK, Tenor=0_BULAN_CASH",Model=GEAR 125,2.35%,100.0%,9.578,Klaster Multi-Atribut Kompleks
-"Leasing=CASH, Warna=HIJAU PERAK","Tenor=0_BULAN_CASH, Model=GEAR 125",2.35%,100.0%,9.578,Klaster Multi-Atribut Kompleks
-"Tenor=0_BULAN_CASH, Warna=HIJAU PERAK",Model=GEAR 125,2.35%,100.0%,9.578,Klaster Multi-Atribut Kompleks
+Warna=HIJAU PERAK,"Model=GEAR 125, Tenor=0_BULAN_CASH",2.35%,100.0%,9.578,Klaster Multi-Atribut Kompleks
 Warna=UNGU MUDA,Model=GRAND FILANO HYBRID NEO,2.76%,62.32%,9.194,Klaster Persediaan & Warna
 Warna=PERAK HIJAU,"Model=MIO M3 CW, Tenor=0_BULAN_CASH",3.5%,100.0%,7.189,Klaster Multi-Atribut Kompleks
-Warna=PERAK HIJAU,"Model=MIO M3 CW, Leasing=CASH",3.5%,100.0%,7.189,Klaster Multi-Atribut Kompleks
+Warna=PERAK HIJAU,"Leasing=CASH, Model=MIO M3 CW",3.5%,100.0%,7.189,Klaster Multi-Atribut Kompleks
+"Warna=PERAK HIJAU, Tenor=0_BULAN_CASH","Leasing=CASH, Model=MIO M3 CW",3.5%,100.0%,7.189,Klaster Multi-Atribut Kompleks
+Warna=PERAK HIJAU,"Leasing=CASH, Model=MIO M3 CW, Tenor=0_BULAN_CASH",3.5%,100.0%,7.189,Klaster Multi-Atribut Kompleks
 "Leasing=CASH, Warna=PERAK HIJAU","Model=MIO M3 CW, Tenor=0_BULAN_CASH",3.5%,100.0%,7.189,Klaster Multi-Atribut Kompleks
-Warna=PERAK HIJAU,"Model=MIO M3 CW, Leasing=CASH, Tenor=0_BULAN_CASH",3.5%,100.0%,7.189,Klaster Multi-Atribut Kompleks
-"Tenor=0_BULAN_CASH, Warna=PERAK HIJAU","Model=MIO M3 CW, Leasing=CASH",3.5%,100.0%,7.189,Klaster Multi-Atribut Kompleks
-"Tenor=0_BULAN_CASH, Warna=PERAK HIJAU",Model=MIO M3 CW,3.5%,100.0%,7.173,Klaster Multi-Atribut Kompleks
+"Warna=PERAK HIJAU, Tenor=0_BULAN_CASH",Model=MIO M3 CW,3.5%,100.0%,7.173,Klaster Multi-Atribut Kompleks
 Warna=PERAK HIJAU,Model=MIO M3 CW,3.5%,100.0%,7.173,Klaster Persediaan & Warna
-"Leasing=CASH, Tenor=0_BULAN_CASH, Warna=PERAK HIJAU",Model=MIO M3 CW,3.5%,100.0%,7.173,Klaster Multi-Atribut Kompleks
+"Leasing=CASH, Warna=PERAK HIJAU, Tenor=0_BULAN_CASH",Model=MIO M3 CW,3.5%,100.0%,7.173,Klaster Multi-Atribut Kompleks
 "Leasing=CASH, Warna=PERAK HIJAU",Model=MIO M3 CW,3.5%,100.0%,7.173,Klaster Multi-Atribut Kompleks
-"Warna=HITAM, Tenor=0_BULAN_CASH, Wilayah=JAKARTA_SELATAN","Leasing=CASH, Model=AEROX ALPHA",5.56%,65.04%,5.165,Klaster Geo-Marketing Spasial
+"Leasing=CASH, Warna=HITAM, Wilayah=JAKARTA_SELATAN","Model=AEROX ALPHA, Tenor=0_BULAN_CASH",5.56%,65.04%,5.165,Klaster Geo-Marketing Spasial
