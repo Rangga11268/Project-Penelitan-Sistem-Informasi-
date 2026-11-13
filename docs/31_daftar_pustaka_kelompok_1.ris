@@ -1,0 +1,195 @@
+TY  - BOOK
+AU  - Han, Jiawei
+AU  - Pei, Jian
+AU  - Tong, Hanghang
+TI  - Data Mining: Concepts and Techniques
+ET  - 4th ed.
+PB  - Morgan Kaufmann / Elsevier
+CY  - Cambridge, MA, USA
+PY  - 2022
+UR  - https://www.sciencedirect.com/book/9780128117606/data-mining-concepts-and-techniques
+ER  - 
+
+TY  - JOUR
+AU  - Lumban Gaol, Gabriel H. L.
+AU  - Yustanti, Wiwik
+TI  - Penerapan Metode Association Rule dengan Algoritma FP-Growth dan Prediksi dengan Artificial Neural Network untuk Persediaan Sparepart
+JO  - J. Emerg. Inf. Syst. Bus. Intell. (JEISBI)
+VL  - 3
+IS  - 4
+SP  - 120
+EP  - 128
+PY  - 2022
+DO  - 10.26740/jeisbi.v3i4.49352
+UR  - https://doi.org/10.26740/jeisbi.v3i4.49352
+ER  - 
+
+TY  - JOUR
+AU  - Salu, Nataniel
+AU  - Michael, Alfrida
+AU  - Padang, Semuel Yacob
+AU  - Adda, Mohamad S.
+TI  - Prediksi Persediaan Sepeda Motor Pada Dealer Yamaha Jaya Baru Motor Mengunakan Metode Frequent Pattern (FF-Growth)
+JO  - INFINITY: J. UKI Toraja
+VL  - 2
+IS  - 1
+SP  - 29
+EP  - 36
+PY  - 2022
+DO  - 10.47178/infinity.v2i1.1690
+UR  - https://doi.org/10.47178/infinity.v2i1.1690
+ER  - 
+
+TY  - JOUR
+AU  - Saptadi, A. H.
+AU  - Sari, D. P.
+AU  - Ramadhani, F.
+TI  - Implementasi Algoritma FP-Growth dalam Penentuan Pola Transaksi Penjualan pada Ritel Skala Besar
+JO  - J. RESTI (Rekayasa Sist. Dan Teknol. Informasi)
+VL  - 7
+IS  - 3
+SP  - 540
+EP  - 547
+PY  - 2023
+DO  - 10.29207/resti.v7i3.4844
+UR  - https://doi.org/10.29207/resti.v7i3.4844
+ER  - 
+
+TY  - BOOK
+AU  - Saunders, Mark
+AU  - Lewis, Philip
+AU  - Thornhill, Adrian
+TI  - Research Methods for Business Students
+ET  - 8th ed.
+PB  - Pearson Education
+CY  - Harlow, UK
+PY  - 2019
+UR  - https://www.pearson.com/en-gb/subject-catalog/p/research-methods-for-business-students/P200000005703
+ER  - 
+
+TY  - BOOK
+AU  - Sekaran, Uma
+AU  - Bougie, Roger
+TI  - Research Methods for Business: A Skill-Building Approach
+ET  - 7th ed.
+PB  - John Wiley & Sons
+CY  - Chichester, UK
+PY  - 2016
+UR  - https://www.wiley.com/en-us/Research+Methods+for+Business%3A+A+Skill+Building+Approach%2C+7th+Edition-p-9781119165552
+ER  - 
+
+TY  - BOOK
+AU  - Sharda, Ramesh
+AU  - Delen, Dursun
+AU  - Turban, Efraim
+TI  - Analytics, Data Science, & Artificial Intelligence: Systems for Decision Support
+ET  - 11th ed.
+PB  - Pearson Education
+CY  - Boston, MA, USA
+PY  - 2020
+UR  - https://www.pearson.com/en-us/subject-catalog/p/analytics-data-science-artificial-intelligence-systems-for-decision-support/P200000003502
+ER  - 
+
+TY  - JOUR
+AU  - Soleh, P.
+AU  - Tholib, A.
+AU  - Hidayat, M. N. F.
+TI  - Penerapan Data Mining Untuk Analisa Pola Pembelian Produk Menggunakan Algoritma Frequent Pattern – Growth
+JO  - J. Rekayasa
+VL  - 14
+IS  - 3
+SP  - 456
+EP  - 460
+PY  - 2022
+DO  - 10.21107/rekayasa.v14i3.11365
+UR  - https://doi.org/10.21107/rekayasa.v14i3.11365
+ER  - 
+
+TY  - BOOK
+AU  - Sugiyono
+TI  - Metode Penelitian Kuantitatif, Kualitatif, dan R&D
+ET  - 2nd ed.
+PB  - Alfabeta
+CY  - Bandung
+PY  - 2019
+ER  - 
+
+TY  - BOOK
+AU  - Tan, Pang-Ning
+AU  - Steinbach, Michael
+AU  - Karpatne, Anuj
+AU  - Kumar, Vipin
+TI  - Introduction to Data Mining
+ET  - 2nd ed.
+PB  - Pearson Education
+CY  - Boston, MA, USA
+PY  - 2018
+UR  - https://www.pearson.com/en-us/subject-catalog/p/introduction-to-data-mining/P200000003300
+ER  - 
+
+TY  - BOOK
+AU  - Turban, Efraim
+AU  - Sharda, Ramesh
+AU  - Delen, Dursun
+TI  - Business Intelligence, Analytics, and Data Science: A Managerial Perspective
+ET  - 4th ed.
+PB  - Pearson Education
+CY  - Boston, MA, USA
+PY  - 2018
+UR  - https://www.pearson.com/en-us/subject-catalog/p/business-intelligence-analytics-and-data-science-a-managerial-perspective/P200000003502
+ER  - 
+
+TY  - JOUR
+AU  - Ubaidillah, M.
+AU  - Sumiati
+TI  - Penerapan Multi-Attribute Association Rule Mining Menggunakan FP-Growth untuk Optimasi Persediaan Produk Ritel
+JO  - J. BITS (Building Informatics, Technol. Sci.)
+VL  - 7
+IS  - 1
+SP  - 88
+EP  - 96
+PY  - 2025
+DO  - 10.47065/bits.v7i1.7306
+UR  - https://doi.org/10.47065/bits.v7i1.7306
+ER  - 
+
+TY  - JOUR
+AU  - Widodo, Teguh
+AU  - Setiawan, Dedi
+AU  - Syahputri, A.
+TI  - Data Mining Menentukan Minat Konsumen Memilih Sepeda Motor Idaman Dengan Algoritma C4.5
+JO  - J. Sist. Inf. Triguna Dharma (JURSI TGD)
+VL  - 1
+IS  - 6
+SP  - 883
+EP  - 890
+PY  - 2022
+DO  - 10.53513/jursi.v1i6.7262
+UR  - https://doi.org/10.53513/jursi.v1i6.7262
+ER  - 
+
+TY  - JOUR
+AU  - Wulandari, D. C.
+AU  - Budiman, S. N.
+AU  - Puspitasari, W. D.
+TI  - Penerapan Association Rule Menggunakan Algoritma Fp-Growth Pada Toko Sparepart Motor Cahaya Global Berjaya Blitar
+JO  - J. Ilm. Wahana Pendidik.
+VL  - 11
+IS  - 5.A
+SP  - 79
+EP  - 90
+PY  - 2025
+UR  - https://jurnal.peneliti.net/index.php/JIWP/article/view/11892
+ER  - 
+
+TY  - BOOK
+AU  - Zaki, Mohammed J.
+AU  - Meira, Wagner
+TI  - Data Mining and Machine Learning: Fundamental Concepts and Algorithms
+ET  - 2nd ed.
+PB  - Cambridge University Press
+CY  - Cambridge, UK
+PY  - 2020
+DO  - 10.1017/9781108564175
+UR  - https://doi.org/10.1017/9781108564175
+ER  - 
