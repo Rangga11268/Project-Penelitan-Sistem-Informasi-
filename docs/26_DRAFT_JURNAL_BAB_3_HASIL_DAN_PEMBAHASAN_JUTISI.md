@@ -17,7 +17,12 @@ Dari perspektif finansial, 78,5% (2.444 transaksi) diselesaikan melalui fasilita
 
 Seluruh 3.113 data transaksi tabular ditransformasikan ke dalam representasi keranjang belanja predikat (*multi-attribute predicate basket*) yang menghasilkan matriks insidensi biner berdimensi 3.113 transaksi × 89 atribut item biner unik. Transformasi predikat berpasangan (misalnya `Model_NMAX_Neo` dan `Warna_Matte_Black`) diterapkan secara ketat guna mencegah terbentuknya kaidah asosiasi semu (*spurious rules*) antar-kategori nilai yang identik [3]. Algoritma FP-Growth dioperasikan dengan ambang batas Minimum Support 0,05 (5% atau setara 156 transaksi) dan Minimum Confidence 0,60 (60%). Ringkasan parameter teknis dan hasil penambangan pola frekuensi dirangkum pada Tabel 2.
 
-TABEL 2. RINGKASAN PARAMETER TEKNIS DAN HASIL EKSTRAKSI ALGORITMA FP-GROWTH
+<div align="center">
+
+**TABEL 2**  
+**RINGKASAN PARAMETER TEKNIS DAN HASIL EKSTRAKSI ALGORITMA FP-GROWTH**
+
+</div>
 
 | No | Parameter / Tahapan Ekstraksi | Nilai / Hasil Komputasi |
 | :---: | :--- | :---: |
@@ -41,7 +46,12 @@ Sebaran kaidah asosiasi dan distribusi kekuatan dependensi divisualisasikan pada
 
 Untuk memfasilitasi penerjemahan hasil data mining ke dalam kebijakan operasional dealer, 398 kaidah asosiasi valid dikelompokkan ke dalam lima klaster tematik manajerial. Proporsi sebaran masing-masing klaster disajikan pada Tabel 3.
 
-TABEL 3. DISTRIBUSI KAIDAH ASOSIASI VALID BERDASARKAN KLASTER TEMATIK MANAJERIAL
+<div align="center">
+
+**TABEL 3**  
+**DISTRIBUSI KAIDAH ASOSIASI VALID BERDASARKAN KLASTER TEMATIK MANAJERIAL**
+
+</div>
 
 | No | Klaster Tematik Manajerial | Jumlah Kaidah | Proporsi (%) |
 | :---: | :--- | :---: | :---: |
@@ -54,7 +64,12 @@ TABEL 3. DISTRIBUSI KAIDAH ASOSIASI VALID BERDASARKAN KLASTER TEMATIK MANAJERIAL
 
 Tabel 3 memperlihatkan bahwa klaster Geo-Marketing Spasial dan Multi-Atribut Lintas Dimensi mendominasi lebih dari 86% total kaidah asosiasi yang dihasilkan. Hal ini menegaskan bahwa perilaku konsumen otomotif roda dua sangat dipengaruhi oleh faktor lokasi geografis domisili dan kombinasi terstruktur antara preferensi varian motor, lembaga pembiayaan, serta durasi kredit. Sebagai ilustrasi kekuatan dependensi antar-atribut, Tabel 4 menyajikan 10 kaidah asosiasi terpilih dengan nilai *Lift Ratio* tertinggi yang mewakili dinamika lintas klaster.
 
-TABEL 4. KAIDAH ASOSIASI TERPILIH TERKUAT HASIL VALIDASI TRI-METRIK
+<div align="center">
+
+**TABEL 4**  
+**KAIDAH ASOSIASI TERPILIH TERKUAT HASIL VALIDASI TRI-METRIK**
+
+</div>
 
 | No | Anteseden (Kondisi Pembelian) | Konsekuen (Prediksi) | Support | Confidence | Lift Ratio |
 | :---: | :--- | :--- | :---: | :---: | :---: |
@@ -85,7 +100,12 @@ Gambar 5. Heatmap Penetrasi Spasial Model Sepeda Motor per Wilayah Aglomerasi Ko
 
 Gambar 5 memetakan konsentrasi densitas penjualan model sepeda motor pada kantong-kantong wilayah aglomerasi konsumen. Wilayah industri Cikarang dan Tambun teridentifikasi sebagai episentrum penjualan Maxi Series (NMAX Neo dan Aerox 155), yang berkorelasi erat dengan mobilitas komuter pekerja industri. Sebaliknya, wilayah urban Bekasi Barat dan Bekasi Selatan menjadi konsentrasi utama bagi Classy Series (Grand Filano dan Fazzio Hybrid) yang mencerminkan profil konsumen segmen gaya hidup modern. Sintesis implementasi manajerial terpadu dari temuan penelitian ini dirangkum ke dalam matriks preskriptif pada Tabel 5.
 
-TABEL 5. MATRIKS PRESKRIPTIF REKOMENDASI MANAJERIAL TERPADU PT. SSM MOTOR
+<div align="center">
+
+**TABEL 5**  
+**MATRIKS PRESKRIPTIF REKOMENDASI MANAJERIAL TERPADU PT. SSM MOTOR**
+
+</div>
 
 | Pilar Rekomendasi | Target / Basis Kaidah Asosiasi | Tindakan Operasional Spesifik | Indikator Dampak Bisnis |
 | :--- | :--- | :--- | :--- |
