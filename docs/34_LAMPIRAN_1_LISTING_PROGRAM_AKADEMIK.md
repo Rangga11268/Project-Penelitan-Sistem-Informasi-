@@ -20,6 +20,7 @@ Listing program di bawah ini merupakan implementasi komputasional penambangan da
 | **Representasi Matriks** | Keranjang Predikat Multiatribut Biner (3.113 Baris × 89 Kolom Fitur) |
 | **Spesifikasi Perangkat Keras** | AMD Ryzen 5 Processor, 16 GB DDR4 RAM, 512 GB NVMe SSD, Windows 11 OS |
 | **Tautan Repositori GitHub** | [https://github.com/Rangga11268/Project-Penelitan-Sistem-Informasi-.git](https://github.com/Rangga11268/Project-Penelitan-Sistem-Informasi-.git) |
+| **Tautan Google Colab (Demo)** | [https://colab.research.google.com/github/Rangga11268/Project-Penelitan-Sistem-Informasi-/blob/main/notebooks/GOOGLE_COLAB_FP_GROWTH_PT_SSM_MOTOR.ipynb](https://colab.research.google.com/github/Rangga11268/Project-Penelitan-Sistem-Informasi-/blob/main/notebooks/GOOGLE_COLAB_FP_GROWTH_PT_SSM_MOTOR.ipynb) |
 
 ---
 
